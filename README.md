@@ -12,6 +12,5 @@ Za vsako knjigo bom zajel:
 - povprečno oceno
 
 Delovne hipoteze:
-- Kateri avtorji so izdali najboljše ocenjene knjige?
+- Kateri avtor je izdal največ popularnih knjig iz tega seznama?
 - Katera knjiga ima najvišjo povprečno oceno?
-- Kateri avtorji so izdali več popularnih in uspešnih knjig?
