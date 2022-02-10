@@ -13,7 +13,7 @@ Za vsako knjigo bom zajel:
 - število glasov / ocen
 
 Delovne hipoteze:
-- Kateri avtor je izdal največ popularnih knjig iz tega seznama?
+- Kateri avtor je izdal največ popularnih knjig (npr: takih z povprečno oceno nad 4) iz tega seznama?
 - Katera knjiga ima najvišjo povprečno oceno?
 
 V CSV datoteki "goodreads.csv" so za vsako knjigo shranjeni podatki o:
@@ -22,6 +22,3 @@ V CSV datoteki "goodreads.csv" so za vsako knjigo shranjeni podatki o:
 - vrednosti / skupni oceni
 - povprečni oceni (od 1.00 do 5.00)
 - številu glasov / oceni
-
-Pozneje se bom mogoče še potrudil in izkopal leta izdaje knjig ter števila strani,
-ker bi bilo zanimivo za poznejšo analizo.
