@@ -1,0 +1,2944 @@
+<!DOCTYPE html>
+<html class="desktop withSiteHeaderTopFullImage
+">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# good_reads: http://ogp.me/ns/fb/good_reads#">
+  <title>A Cure for the Condition (Cure Series #1) by Amy Surprenant</title>
+
+<meta content="A Cure for the Condition book. Read 3 reviews from the world's largest community for readers. When seventeen-year-old Catherine assumes the throne as Que..." name='description'>
+<meta content='telephone=no' name='format-detection'>
+<link href='https://www.goodreads.com/book/show/15711652-a-cure-for-the-condition' rel='canonical'>
+    <meta content='2415071772' property='fb:app_id'>
+<meta content='books.book' property='og:type'>
+<meta content='A Cure for the Condition (Cure Series #1)' property='og:title'>
+<meta content='When seventeen-year-old Catherine assumes the throne as Queen of Cannary following her mother’s murder, she is forced to punish the man s...' property='og:description'>
+<meta content='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340045375i/15711652._UY630_SR1200,630_.jpg' property='og:image'>
+<meta content='https://www.goodreads.com/work/best_book/21378599-a-cure-for-the-condition-cure-series-1' property='og:url'>
+<meta content='https://www.goodreads.com/author/show/6425551.Amy_Surprenant' property='books:author'>
+<meta content='9781611605037' property='books:isbn'>
+<meta content='312' property='books:page_count'>
+<meta content='Goodreads' property='al:ios:app_name'>
+<meta content='355833469' property='al:ios:app_store_id'>
+<meta content='com.goodreads.https://book/show/15711652' property='al:ios:url'>
+
+        <link rel="alternate" href="https://www.goodreads.com/en/book/show/15711652" hreflang="en"/>
+
+
+    <link rel="alternate" href="android-app://com.goodreads/https/www.goodreads.com/book/show/15711652-a-cure-for-the-condition">
+
+          <link rel="next" href="https://www.goodreads.com/book/show/15711652-a-cure-for-the-condition?page=2">
+
+
+
+    <script type="text/javascript"> var ue_t0=window.ue_t0||+new Date();
+ </script>
+  <script type="text/javascript">
+    var ue_mid = "A1PQBFHBHS6YH1";
+    var ue_sn = "www.goodreads.com";
+    var ue_furl = "fls-na.amazon.com";
+    var ue_sid = "903-3482282-8590018";
+    var ue_id = "T0HW7KDABAWBN4MME04D";
+
+    (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+
+    if (window.ue && window.ue.tag) { window.ue.tag('book:show:signed_out', ue.main_scope);window.ue.tag('book:show:signed_out:desktop', ue.main_scope); }
+  </script>
+
+  <!-- * Copied from https://info.analytics.a2z.com/#/docs/data_collection/csa/onboard */ -->
+<script>
+  //<![CDATA[
+    !function(){function n(n,t){var r=i(n);return t&&(r=r("instance",t)),r}var r=[],c=0,i=function(t){return function(){var n=c++;return r.push([t,[].slice.call(arguments,0),n,{time:Date.now()}]),i(n)}};n._s=r,this.csa=n}();
+    
+    if (window.csa) {
+      window.csa("Config", {
+        "Application": "GoodreadsMonolith",
+        "Events.SushiEndpoint": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod",
+        "Events.Namespace": "csa",
+        "CacheDetection.RequestID": "T0HW7KDABAWBN4MME04D",
+        "ObfuscatedMarketplaceId": "A1PQBFHBHS6YH1"
+      });
+    
+      window.csa("Events")("setEntity", {
+        session: { id: "903-3482282-8590018" },
+        page: {requestId: "T0HW7KDABAWBN4MME04D", meaningful: "interactive"}
+      });
+    }
+    
+    var e = document.createElement("script"); e.src = "https://m.media-amazon.com/images/I/41mrkPcyPwL.js"; document.head.appendChild(e);
+  //]]>
+</script>
+
+
+          <script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  
+<script src="https://s.gr-assets.com/assets/webfontloader-a550a17efafeccd666200db5de8ec913.js"></script>
+<script>
+//<![CDATA[
+
+  WebFont.load({
+    classes: false,
+    custom: {
+      families: ["Lato:n4,n7,i4", "Merriweather:n4,n7,i4"],
+      urls: ["https://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css"]
+    }
+  });
+
+//]]>
+</script>
+
+  <link rel="stylesheet" media="all" href="https://s.gr-assets.com/assets/goodreads-f635c7a6cbb5ae2a1dea717d397dacf5.css" />
+
+  
+
+  <link rel="stylesheet" media="screen" href="https://s.gr-assets.com/assets/common_images-670d97636259cafc355c94fc43e871d7.css" />
+
+  <script src="https://s.gr-assets.com/assets/desktop/libraries-41a429a5834e6352d597e2cf0b06486f.js"></script>
+  <script src="https://s.gr-assets.com/assets/application-7606609cafaf6fe4c5ef3af6b7d3302f.js"></script>
+
+    <script>
+  //<![CDATA[
+    var gptAdSlots = gptAdSlots || [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//securepubads.g.doubleclick.net/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "osid.9bd7eaf2242e8ee2ff972e5407497f40");
+    googletag.pubads().setTargeting("grsession", "osid.9bd7eaf2242e8ee2ff972e5407497f40");
+    googletag.pubads().setTargeting("surface", "desktop");
+    googletag.pubads().setTargeting("signedin", "false");
+    googletag.pubads().setTargeting("gr_author", "false");
+    googletag.pubads().setTargeting("author", [6425551]);
+    googletag.pubads().setTargeting("shelf", ["toread","undecided","tolisten","unshelved","neverread","historicalfiction","find","daddydarksbabywarriorlist","list","int"]);
+    googletag.pubads().setTargeting("tags", ["2","116839","8024","131220","5713","29","76193","1389889","1252","23807"]);
+    googletag.pubads().setTargeting("gtargeting", "4fti4h");
+    googletag.pubads().setTargeting("resource", "Work_21378599");
+      googletag.pubads().enableAsyncRendering();
+      googletag.pubads().enableSingleRequest();
+      googletag.pubads().collapseEmptyDivs(true);
+      googletag.pubads().disableInitialLoad();
+      googletag.enableServices();
+    });
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    ! function(a9, a, p, s, t, A, g) {
+      if (a[a9]) return;
+    
+      function q(c, r) {
+        a[a9]._Q.push([c, r])
+      }
+      a[a9] = {
+      init: function() {
+        q("i", arguments)
+      },
+      fetchBids: function() {
+        q("f", arguments)
+      },
+      setDisplayBids: function() {},
+        _Q: []
+      };
+      A = p.createElement(s);
+      A.async = !0;
+      A.src = t;
+      g = p.getElementsByTagName(s)[0];
+      g.parentNode.insertBefore(A, g)
+    }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");
+    
+    apstag.init({
+      pubID: '3211', adServer: 'googletag', bidTimeout: 4e3, params: { aps_privacy: '1YN' }
+    });
+  //]]>
+</script>
+
+
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="/uelr9JJgsQgCu0v0+e3gaeu6eGrTlgz6erGONkmHKAkym6fiK4P40PcVkX/YPTdDymenIyQGVPbFdo+E4EACw==" />
+
+  <meta name="request-id" content="T0HW7KDABAWBN4MME04D" />
+
+    <script src="https://s.gr-assets.com/assets/react_client_side/external_dependencies-2e2b90fafc.js" defer="defer"></script>
+<script src="https://s.gr-assets.com/assets/react_client_side/site_header-affe4ebd97.js" defer="defer"></script>
+<script src="https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js" defer="defer"></script>
+
+
+      <script src="https://s.gr-assets.com/assets/book/show-a22931d02749837069b3b4a4ebf40236.js"></script>
+    <script>
+    //<![CDATA[
+      !function(d,s,id)
+        {var js, fjs = d.getElementsByTagName(s)[0];
+          if(!d.getElementById(id))
+            {js=d.createElement(s);
+            js.id=id;
+            js.src='https://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);
+          }}(document,'script','twitter-wjs');
+    //]]>
+    </script>
+
+
+  
+  
+  
+
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Goodreads">
+
+    <meta name="description" content="A Cure for the Condition book. Read 3 reviews from the world's largest community for readers. When seventeen-year-old Catherine assumes the throne as Que...">
+
+
+  <meta content='summary' name='twitter:card'>
+<meta content='@goodreads' name='twitter:site'>
+<meta content='A Cure for the Condition (Cure Series #1) by Amy Surprenant' name='twitter:title'>
+<meta content="A Cure for the Condition book. Read 3 reviews from the world's largest community for readers. When seventeen-year-old Catherine assumes the throne as Que..." name='twitter:description'>
+<meta content='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340045375i/15711652._UY475_SS475_.jpg' name='twitter:image'>
+<meta content='A Cure for the Condition (Cure Series #1)' name='twitter:image:alt'>
+
+
+  <meta name="verify-v1" content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=">
+  <meta name="google-site-verification" content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" />
+  <meta name="apple-itunes-app" content="app-id=355833469">
+</head>
+
+
+<body class="">
+<div data-react-class="ReactComponents.StoresInitializer" data-react-props="{}"><noscript data-reactid=".19bwi10o6qq" data-react-checksum="-1307045618"></noscript></div>
+
+<div class="content">
+    <script>
+  //<![CDATA[
+    var initializeGrfb = function() {
+      $grfb.initialize({
+        appId: "2415071772"
+      });
+    };
+    if (typeof $grfb !== "undefined") {
+      initializeGrfb();
+    } else {
+      window.addEventListener("DOMContentLoaded", function() {
+        if (typeof $grfb !== "undefined") {
+          initializeGrfb();
+        }
+      });
+    }
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    function loadScript(url, callback) {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+    
+      if (script.readyState) {  //Internet Explorer
+          script.onreadystatechange = function() {
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete") {
+              script.onreadystatechange = null;
+              callback();
+            }
+          };
+      } else {  //Other browsers
+        script.onload = function() {
+          callback();
+        };
+      }
+    
+      script.src = url;
+      document.getElementsByTagName("head")[0].appendChild(script);
+    }
+    
+    function initAppleId() {
+      AppleID.auth.init({
+        clientId : 'com.goodreads.app', 
+        scope : 'name email',
+        redirectURI: 'https://www.goodreads.com/apple_users/sign_in_with_apple_web',
+        state: 'apple_oauth_state_4a96f509-226d-4b7d-9855-764c912aaab1'
+      });
+    }
+    
+    var initializeSiwa = function() {
+      var APPLE_SIGN_IN_JS_URL =  "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"
+      loadScript(APPLE_SIGN_IN_JS_URL, initAppleId);
+    };
+    if (typeof AppleID !== "undefined") {
+      initAppleId();
+    } else {
+      initializeSiwa();
+    }
+  //]]>
+</script>
+
+<div class='siteHeader'>
+<div data-react-class="ReactComponents.HeaderStoreConnector" data-react-props="{&quot;myBooksUrl&quot;:&quot;/review/list?ref=nav_mybooks&quot;,&quot;browseUrl&quot;:&quot;/book?ref=nav_brws&quot;,&quot;recommendationsUrl&quot;:&quot;/recommendations?ref=nav_brws_recs&quot;,&quot;choiceAwardsUrl&quot;:&quot;/choiceawards?ref=nav_brws_gca&quot;,&quot;genresIndexUrl&quot;:&quot;/genres?ref=nav_brws_genres&quot;,&quot;giveawayUrl&quot;:&quot;/giveaway?ref=nav_brws_giveaways&quot;,&quot;exploreUrl&quot;:&quot;/book?ref=nav_brws_explore&quot;,&quot;homeUrl&quot;:&quot;/?ref=nav_home&quot;,&quot;listUrl&quot;:&quot;/list?ref=nav_brws_lists&quot;,&quot;newsUrl&quot;:&quot;/news?ref=nav_brws_news&quot;,&quot;communityUrl&quot;:&quot;/group?ref=nav_comm&quot;,&quot;groupsUrl&quot;:&quot;/group?ref=nav_comm_groups&quot;,&quot;quotesUrl&quot;:&quot;/quotes?ref=nav_comm_quotes&quot;,&quot;featuredAskAuthorUrl&quot;:&quot;/ask_the_author?ref=nav_comm_askauthor&quot;,&quot;autocompleteUrl&quot;:&quot;/book/auto_complete&quot;,&quot;defaultLogoActionUrl&quot;:&quot;/&quot;,&quot;topFullImage&quot;:{&quot;clickthroughUrl&quot;:&quot;https://www.goodreads.com/blog/show/2234?ref=blackhistorymonth2022_eb&quot;,&quot;altText&quot;:&quot;Celebrating Black History Month&quot;,&quot;backgroundColor&quot;:&quot;#B7C0FD&quot;,&quot;xs&quot;:{&quot;1x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1643386100i/91.jpg&quot;,&quot;2x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1643386106i/92.jpg&quot;},&quot;md&quot;:{&quot;1x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1643386089i/89.jpg&quot;,&quot;2x&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1643386095i/90.jpg&quot;}},&quot;logo&quot;:{&quot;clickthroughUrl&quot;:&quot;/&quot;,&quot;altText&quot;:&quot;Goodreads Home&quot;},&quot;searchPath&quot;:&quot;/search&quot;,&quot;newReleasesUrl&quot;:&quot;/book/popular_by_date/2022/2?ref=nav_brws_newrels&quot;,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;signInWithReturnUrl&quot;:true,&quot;deployServices&quot;:[],&quot;defaultLogoAltText&quot;:&quot;Goodreads Home&quot;,&quot;mobviousDeviceType&quot;:&quot;desktop&quot;}"><header data-reactid=".kcuq28yt8g" data-react-checksum="-861011902"><div class="siteHeader__topFullImageContainer" style="background-color:#B7C0FD;" data-reactid=".kcuq28yt8g.0"><a class="siteHeader__topFullImageLink" href="https://www.goodreads.com/blog/show/2234?ref=blackhistorymonth2022_eb" data-reactid=".kcuq28yt8g.0.0"><picture data-reactid=".kcuq28yt8g.0.0.0"><source media="(min-width: 768px)" srcset="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1643386089i/89.jpg 1x, https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1643386095i/90.jpg 2x" data-reactid=".kcuq28yt8g.0.0.0.0"/><img alt="Celebrating Black History Month" class="siteHeader__topFullImage" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1643386100i/91.jpg" srcset="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1643386106i/92.jpg 2x" data-reactid=".kcuq28yt8g.0.0.0.1"/></picture></a></div><div class="siteHeader__topLine gr-box gr-box--withShadow" data-reactid=".kcuq28yt8g.1"><div class="siteHeader__contents" data-reactid=".kcuq28yt8g.1.0"><div class="siteHeader__topLevelItem siteHeader__topLevelItem--searchIcon" data-reactid=".kcuq28yt8g.1.0.0"><button class="siteHeader__searchIcon gr-iconButton" aria-label="Toggle search" type="button" data-ux-click="true" data-reactid=".kcuq28yt8g.1.0.0.0"></button></div><a href="/" class="siteHeader__logo" aria-label="Goodreads Home" title="Goodreads Home" data-reactid=".kcuq28yt8g.1.0.1"></a><nav class="siteHeader__primaryNavInline" data-reactid=".kcuq28yt8g.1.0.2"><ul role="menu" class="siteHeader__menuList" data-reactid=".kcuq28yt8g.1.0.2.0"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--home" data-reactid=".kcuq28yt8g.1.0.2.0.0"><a href="/?ref=nav_home" class="siteHeader__topLevelLink" data-reactid=".kcuq28yt8g.1.0.2.0.0.0">Home</a></li><li class="siteHeader__topLevelItem" data-reactid=".kcuq28yt8g.1.0.2.0.1"><a href="/review/list?ref=nav_mybooks" class="siteHeader__topLevelLink" data-reactid=".kcuq28yt8g.1.0.2.0.1.0">My Books</a></li><li class="siteHeader__topLevelItem" data-reactid=".kcuq28yt8g.1.0.2.0.2"><div class="primaryNavMenu primaryNavMenu--siteHeaderBrowseMenu ignore-react-onclickoutside" data-reactid=".kcuq28yt8g.1.0.2.0.2.0"><a class="primaryNavMenu__trigger primaryNavMenu__trigger--siteHeaderBrowseMenu" href="/book?ref=nav_brws" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.0"><span data-reactid=".kcuq28yt8g.1.0.2.0.2.0.0.0">Browse ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge wide" role="menu" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1"><div class="siteHeader__browseMenuDropdown" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0"><ul class="siteHeader__subNav" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0"><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.0"><a href="/recommendations?ref=nav_brws_recs" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.0.0">Recommendations</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.1"><a href="/choiceawards?ref=nav_brws_gca" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.1.0">Choice Awards</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.2"><a href="/genres?ref=nav_brws_genres" class="siteHeader__subNavLink siteHeader__subNavLink--genresIndex" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.2.0">Genres</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.3"><a href="/giveaway?ref=nav_brws_giveaways" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.3.0">Giveaways</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.4"><a href="/book/popular_by_date/2022/2?ref=nav_brws_newrels" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.4.0">New Releases</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.5"><a href="/list?ref=nav_brws_lists" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.5.0">Lists</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.6"><a href="/book?ref=nav_brws_explore" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.6.0">Explore</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.7"><a href="/news?ref=nav_brws_news" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.0.7.0">News &amp; Interviews</a></li></ul><div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1"><div class="genreListContainer" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0"><div class="siteHeader__heading siteHeader__title" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.0">Genres</div><ul class="genreList" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0"><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Art"><a href="/genres/art" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Art.0">Art</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Biography"><a href="/genres/biography" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Biography.0">Biography</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Business"><a href="/genres/business" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Business.0">Business</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s"><a href="/genres/children-s" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s.0">Children&#x27;s</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Christian"><a href="/genres/christian" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Christian.0">Christian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Classics"><a href="/genres/classics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Classics.0">Classics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Comics"><a href="/genres/comics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Comics.0">Comics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks"><a href="/genres/cookbooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks.0">Cookbooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks"><a href="/genres/ebooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks.0">Ebooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy"><a href="/genres/fantasy" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy.0">Fantasy</a></li></ul><ul class="genreList" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1"><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction"><a href="/genres/fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction.0">Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels"><a href="/genres/graphic-novels" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels.0">Graphic Novels</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction"><a href="/genres/historical-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction.0">Historical Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$History"><a href="/genres/history" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$History.0">History</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Horror"><a href="/genres/horror" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Horror.0">Horror</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir"><a href="/genres/memoir" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir.0">Memoir</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Music"><a href="/genres/music" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Music.0">Music</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery"><a href="/genres/mystery" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery.0">Mystery</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction"><a href="/genres/non-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction.0">Nonfiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry"><a href="/genres/poetry" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry.0">Poetry</a></li></ul><ul class="genreList" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2"><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology"><a href="/genres/psychology" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology.0">Psychology</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Romance"><a href="/genres/romance" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Romance.0">Romance</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science"><a href="/genres/science" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science.0">Science</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction"><a href="/genres/science-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction.0">Science Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help"><a href="/genres/self-help" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help.0">Self Help</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Sports"><a href="/genres/sports" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Sports.0">Sports</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller"><a href="/genres/thriller" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller.0">Thriller</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Travel"><a href="/genres/travel" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Travel.0">Travel</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult"><a href="/genres/young-adult" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult.0">Young Adult</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.1"><a href="/genres" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.2.0.2.0.1.0.1.0.1:$genreList2.1.0">More Genres</a></li></ul></div></div></div></div></div></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--community" data-reactid=".kcuq28yt8g.1.0.2.0.3"><div class="primaryNavMenu ignore-react-onclickoutside" data-reactid=".kcuq28yt8g.1.0.2.0.3.0"><a class="primaryNavMenu__trigger" href="/group?ref=nav_comm" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".kcuq28yt8g.1.0.2.0.3.0.0"><span data-reactid=".kcuq28yt8g.1.0.2.0.3.0.0.0">Community ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge" role="menu" data-reactid=".kcuq28yt8g.1.0.2.0.3.0.1"><ul class="siteHeader__subNav" data-reactid=".kcuq28yt8g.1.0.2.0.3.0.1.0"><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.2.0.3.0.1.0.0"><a href="/group?ref=nav_comm_groups" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.2.0.3.0.1.0.0.0">Groups</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.2.0.3.0.1.0.2"><a href="/quotes?ref=nav_comm_quotes" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.2.0.3.0.1.0.2.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.2.0.3.0.1.0.3"><a href="/ask_the_author?ref=nav_comm_askauthor" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.2.0.3.0.1.0.3.0">Ask the Author</a></li></ul></div></div></li></ul></nav><div accept-charset="UTF-8" class="searchBox searchBox--navbar" data-reactid=".kcuq28yt8g.1.0.3"><form autocomplete="off" action="/search" class="searchBox__form" role="search" aria-label="Search for books to add to your shelves" data-reactid=".kcuq28yt8g.1.0.3.0"><input class="searchBox__input searchBox__input--navbar" autocomplete="off" name="q" type="text" placeholder="Search books" aria-label="Search books" aria-controls="searchResults" data-reactid=".kcuq28yt8g.1.0.3.0.0"/><input type="hidden" name="qid" value="" data-reactid=".kcuq28yt8g.1.0.3.0.1"/><button type="submit" class="searchBox__icon--magnifyingGlass gr-iconButton searchBox__icon searchBox__icon--navbar" aria-label="Search" data-reactid=".kcuq28yt8g.1.0.3.0.2"></button></form></div><ul class="siteHeader__personal" data-reactid=".kcuq28yt8g.1.0.4"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".kcuq28yt8g.1.0.4.0"><a href="/user/sign_in?returnurl=undefined" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".kcuq28yt8g.1.0.4.0.0">Sign In</a></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".kcuq28yt8g.1.0.4.1"><a href="/user/sign_up" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".kcuq28yt8g.1.0.4.1.0">Join</a></li></ul><div class="siteHeader__topLevelItem siteHeader__topLevelItem--signUp" data-reactid=".kcuq28yt8g.1.0.5"><a href="/user/sign_up" class="gr-button gr-button--dark" rel="nofollow" data-reactid=".kcuq28yt8g.1.0.5.0">Sign up</a></div><div class="modal modal--overlay modal--drawer" tabindex="0" data-reactid=".kcuq28yt8g.1.0.7"><div data-reactid=".kcuq28yt8g.1.0.7.0"><div class="modal__close" data-reactid=".kcuq28yt8g.1.0.7.0.0"><button type="button" class="gr-iconButton" data-reactid=".kcuq28yt8g.1.0.7.0.0.0"><img alt="Dismiss" src="//s.gr-assets.com/assets/gr/icons/icon_close_white-dbf4152deeef5bd3915d5d12210bf05f.svg" data-reactid=".kcuq28yt8g.1.0.7.0.0.0.0"/></button></div><div class="modal__content" data-reactid=".kcuq28yt8g.1.0.7.0.1"><div class="personalNavDrawer" data-reactid=".kcuq28yt8g.1.0.7.0.1.0"><div class="personalNavDrawer__personalNavContainer" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.0"><noscript data-reactid=".kcuq28yt8g.1.0.7.0.1.0.0.0"></noscript></div><div class="personalNavDrawer__profileAndLinksContainer" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1"><div class="personalNavDrawer__profileContainer gr-mediaFlexbox gr-mediaFlexbox--alignItemsCenter" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.0"><div class="gr-mediaFlexbox__media" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.0.0"><img class="circularIcon circularIcon--large circularIcon--border" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.0.0.0"/></div><div class="gr-mediaFlexbox__desc" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.0.1"><a class="gr-hyperlink gr-hyperlink--bold" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.0.1.0"></a><div class="u-displayBlock" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.0.1.1"><a class="gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.0.1.1.0">View profile</a></div></div></div><div class="personalNavDrawer__profileMenuContainer" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1"><ul data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0"><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.0"><span data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.0.0"><a class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.0.0.0">Profile</a></span></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.3"><a class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.3.0">Friends</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.4"><span data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.4.0"><a class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.4.0.0"><span data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.4.0.0.0">Groups</span></a></span></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.5"><a class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.5.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.6"><a class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.6.0">Comments</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.7"><a class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.7.0">Reading Challenge</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.8"><a class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.8.0">Kindle Notes &amp; Highlights</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.9"><a class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.9.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.a"><a class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.a.0">Favorite genres</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.b"><span data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.b.0"><a class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.b.0.0"><span data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.b.0.0.0">Friends’ recommendations</span></a></span></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.c"><a class="siteHeader__subNavLink u-topGrayBorder" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.c.0">Account settings</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.d"><a class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.d.0">Help</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.e"><a class="siteHeader__subNavLink" data-method="POST" data-reactid=".kcuq28yt8g.1.0.7.0.1.0.1.1.0.e.0">Sign out</a></li></ul></div></div></div></div></div></div></div></div><div class="headroom-wrapper" data-reactid=".kcuq28yt8g.2"><div style="position:relative;top:0;left:0;right:0;z-index:1;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0);" class="headroom headroom--unfixed" data-reactid=".kcuq28yt8g.2.0"><nav class="siteHeader__primaryNavSeparateLine gr-box gr-box--withShadow" data-reactid=".kcuq28yt8g.2.0.0"><ul role="menu" class="siteHeader__menuList" data-reactid=".kcuq28yt8g.2.0.0.0"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--home" data-reactid=".kcuq28yt8g.2.0.0.0.0"><a href="/?ref=nav_home" class="siteHeader__topLevelLink" data-reactid=".kcuq28yt8g.2.0.0.0.0.0">Home</a></li><li class="siteHeader__topLevelItem" data-reactid=".kcuq28yt8g.2.0.0.0.1"><a href="/review/list?ref=nav_mybooks" class="siteHeader__topLevelLink" data-reactid=".kcuq28yt8g.2.0.0.0.1.0">My Books</a></li><li class="siteHeader__topLevelItem" data-reactid=".kcuq28yt8g.2.0.0.0.2"><div class="primaryNavMenu primaryNavMenu--siteHeaderBrowseMenu ignore-react-onclickoutside" data-reactid=".kcuq28yt8g.2.0.0.0.2.0"><a class="primaryNavMenu__trigger primaryNavMenu__trigger--siteHeaderBrowseMenu" href="/book?ref=nav_brws" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.0"><span data-reactid=".kcuq28yt8g.2.0.0.0.2.0.0.0">Browse ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge wide" role="menu" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1"><div class="siteHeader__browseMenuDropdown" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0"><ul class="siteHeader__subNav" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0"><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.0"><a href="/recommendations?ref=nav_brws_recs" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.0.0">Recommendations</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.1"><a href="/choiceawards?ref=nav_brws_gca" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.1.0">Choice Awards</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.2"><a href="/genres?ref=nav_brws_genres" class="siteHeader__subNavLink siteHeader__subNavLink--genresIndex" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.2.0">Genres</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.3"><a href="/giveaway?ref=nav_brws_giveaways" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.3.0">Giveaways</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.4"><a href="/book/popular_by_date/2022/2?ref=nav_brws_newrels" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.4.0">New Releases</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.5"><a href="/list?ref=nav_brws_lists" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.5.0">Lists</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.6"><a href="/book?ref=nav_brws_explore" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.6.0">Explore</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.7"><a href="/news?ref=nav_brws_news" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.0.7.0">News &amp; Interviews</a></li></ul><div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1"><div class="genreListContainer" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0"><div class="siteHeader__heading siteHeader__title" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.0">Genres</div><ul class="genreList" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0"><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Art"><a href="/genres/art" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Art.0">Art</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Biography"><a href="/genres/biography" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Biography.0">Biography</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Business"><a href="/genres/business" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Business.0">Business</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s"><a href="/genres/children-s" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s.0">Children&#x27;s</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Christian"><a href="/genres/christian" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Christian.0">Christian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Classics"><a href="/genres/classics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Classics.0">Classics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Comics"><a href="/genres/comics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Comics.0">Comics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks"><a href="/genres/cookbooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks.0">Cookbooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks"><a href="/genres/ebooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks.0">Ebooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy"><a href="/genres/fantasy" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy.0">Fantasy</a></li></ul><ul class="genreList" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1"><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction"><a href="/genres/fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction.0">Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels"><a href="/genres/graphic-novels" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels.0">Graphic Novels</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction"><a href="/genres/historical-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction.0">Historical Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$History"><a href="/genres/history" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$History.0">History</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Horror"><a href="/genres/horror" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Horror.0">Horror</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir"><a href="/genres/memoir" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir.0">Memoir</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Music"><a href="/genres/music" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Music.0">Music</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery"><a href="/genres/mystery" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery.0">Mystery</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction"><a href="/genres/non-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction.0">Nonfiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry"><a href="/genres/poetry" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry.0">Poetry</a></li></ul><ul class="genreList" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2"><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology"><a href="/genres/psychology" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology.0">Psychology</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Romance"><a href="/genres/romance" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Romance.0">Romance</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science"><a href="/genres/science" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science.0">Science</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction"><a href="/genres/science-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction.0">Science Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help"><a href="/genres/self-help" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help.0">Self Help</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Sports"><a href="/genres/sports" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Sports.0">Sports</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller"><a href="/genres/thriller" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller.0">Thriller</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Travel"><a href="/genres/travel" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Travel.0">Travel</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult"><a href="/genres/young-adult" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult.0">Young Adult</a></li><li role="menuitem" class="genreList__genre" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.1"><a href="/genres" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".kcuq28yt8g.2.0.0.0.2.0.1.0.1.0.1:$genreList2.1.0">More Genres</a></li></ul></div></div></div></div></div></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--community" data-reactid=".kcuq28yt8g.2.0.0.0.3"><div class="primaryNavMenu ignore-react-onclickoutside" data-reactid=".kcuq28yt8g.2.0.0.0.3.0"><a class="primaryNavMenu__trigger" href="/group?ref=nav_comm" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".kcuq28yt8g.2.0.0.0.3.0.0"><span data-reactid=".kcuq28yt8g.2.0.0.0.3.0.0.0">Community ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge" role="menu" data-reactid=".kcuq28yt8g.2.0.0.0.3.0.1"><ul class="siteHeader__subNav" data-reactid=".kcuq28yt8g.2.0.0.0.3.0.1.0"><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.2.0.0.0.3.0.1.0.0"><a href="/group?ref=nav_comm_groups" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.2.0.0.0.3.0.1.0.0.0">Groups</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.2.0.0.0.3.0.1.0.2"><a href="/quotes?ref=nav_comm_quotes" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.2.0.0.0.3.0.1.0.2.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".kcuq28yt8g.2.0.0.0.3.0.1.0.3"><a href="/ask_the_author?ref=nav_comm_askauthor" class="siteHeader__subNavLink" data-reactid=".kcuq28yt8g.2.0.0.0.3.0.1.0.3.0">Ask the Author</a></li></ul></div></div></li></ul></nav></div></div></header></div>
+</div>
+<div class='siteHeaderBottomSpacer'></div>
+
+  
+
+  <div class="mainContentContainer ">
+
+
+      
+
+    <div class="mainContent ">
+        <div id="premiumAdTop">
+
+          <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--pushdown&quot;}"></div>
+
+        </div>
+      
+      <div class="mainContentFloat ">
+
+        <div id="flashContainer">
+
+
+
+
+</div>
+
+        
+
+
+
+
+
+
+
+
+
+  <div class='ctaBannerShown'>
+<div class='ctaHeader'>
+Goodreads helps you keep track of books you want to read.
+</div>
+<div>
+Start by marking “A Cure for the Condition (Cure Series #1)” as Want to Read:
+</div>
+<div class='ctaButton'>
+<div class='wtrButtonContainer wtrSignedOut' id='1_book_15711652'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="t0iYKcenj3kzAUZx2BKWctI+KnrOk7eFv8em0cGIgHRtZVMZnUACXlDX/Rv0ldUuerldB+lN9uWNOLrXCy+c3w==" />
+<input type="hidden" name="book_id" id="book_id" value="15711652" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="1_book_15711652" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VjqcYaWufebMvTb5KH5BXnyONjGpeuM43DRzENTVUMaMF1dR/0nwwa9rjZME+QIC1AlBTI6koljuy28WHnJMbQ==" />
+<input type="hidden" name="unique_id" id="unique_id" value="1_book_15711652" />
+<input type="hidden" name="book_id" id="book_id" value="15711652" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+<div class='wtrShelfMenu'>
+<ul class='wtrExclusiveShelves'>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='to-read'>
+<span class='progressTrigger'>Want to Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='currently-reading'>
+<span class='progressTrigger'>Currently Reading</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='read'>
+<span class='progressTrigger'>Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<div class='ctaBannerTriangle'></div>
+
+
+<div class="leftContainer" itemscope itemtype="http://schema.org/Book">
+<div id="topcol" class="last col stacked">
+
+
+<div id="imagecol" class="col">
+  <div class="bookCoverContainer">
+    <div class="bookCoverPrimary">
+          <a rel="nofollow" itemprop="image" href="/book/photo/15711652-a-cure-for-the-condition"><img id="coverImage" alt="A Cure for the Condition (Cure Series #1)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340045375l/15711652.jpg" /></a>
+    </div>
+    <div class="bookCoverActions">
+      <div class="coverButtonContainer">
+        <div class="coverButton">
+          <a href="https://www.goodreads.com/work/editions/21378599-a-cure-for-the-condition-cure-series-1">Other editions</a>
+        </div>
+      </div>
+        <div class="coverButtonContainer">
+          <div class="coverButton enlargeCover" id="edition_15711652_enlarge">
+            Enlarge cover
+          </div>
+          <div class="editionCover" id="edition_15711652_enlarge_cover" style= "display: none;">
+            <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340045375l/15711652.jpg" alt="15711652" />
+          </div>
+        </div>
+    </div>
+  </div>
+
+      <div class='wtrButtonContainer wtrSignedOut' id='2_book_15711652'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="aBJqjgxu2P7y63vs0LJGx/Uy6sazaxm2UvpZGTJy9MCyP6G+VolV2ZE9wIb8NQWbXbWdu5S1WNZgBUUf+NXoaw==" />
+<input type="hidden" name="book_id" id="book_id" value="15711652" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="2_book_15711652" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="bm_bsh_wtrwtr" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" value="/book/show/15711652-a-cure-for-the-condition" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="IL5rB6W2wr+H7YfFyTSubYLKb/aTGyFTqLu8w39YcHL6k6A3/1FPmOQ7PK/ls+0xKk0Yi7TFYDOaRKDFtf9s2Q==" />
+<input type="hidden" name="unique_id" id="unique_id" value="2_book_15711652" />
+<input type="hidden" name="book_id" id="book_id" value="15711652" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="ref" id="ref" value="bm_bsh_wtres" class="wtrRefRightShelfMenu" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" value="/book/show/15711652-a-cure-for-the-condition" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="15711652" data-user-id="0" data-submit-url="/review/rate/15711652?page_url=%2Fbook%2Fshow%2F15711652-a-cure-for-the-condition&stars_click=true&wtr_button_id=2_book_15711652" data-rating="0"><a class="star off" title="did not like it" href="#" ref="bm_rtg_st1_bsh">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="bm_rtg_st2_bsh">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="bm_rtg_st3_bsh">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="bm_rtg_st4_bsh">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="bm_rtg_st5_bsh">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+
+  <div class=asyncPreviewButtonContainer data-book-id=15711652 >
+    
+
+<a class="gr-button kcrPreviewButton buyableFeature asyncPreviewButton" id="js-kcrPreviewButton" data-book-id="15711652" href="#">Open Preview</a>
+
+<div id="wrongBookKindlePreviewScreenBook15711652" class="wrongBookKindlePreviewScreen" style="display: none;">
+  <div class="wrongBookBody">
+    <h2>See a Problem?</h2>
+    <div class="wrongBookText">
+      <div class="description">
+        We’d love your help.
+        Let us know what’s wrong with this preview of
+          <cite>A Cure for the Condition</cite> by Amy Surprenant.
+      </div>
+      <form class="new_kindle_book_mapping_flag" id="new_kindle_book_mapping_flag" action="/kindle_book_mapping_flags" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+        <div class="reasons">
+          <label for="kindle_book_mapping_flag_reason">Problem:</label>
+          <select name="kindle_book_mapping_flag[reason]" id="kindle_book_mapping_flag_reason"><option value="wrongBook">It’s the wrong book</option>
+<option value="wrongEdition">It’s the wrong edition</option>
+<option value="other">Other</option></select>
+          <br/>
+        </div>
+        <div class="otherReason">
+          <label for="kindle_book_mapping_flag_other_reason">Details (if other):</label>
+          <input type="text" name="kindle_book_mapping_flag[other_reason]" id="kindle_book_mapping_flag_other_reason" />
+        </div>
+        <input value="15711652" type="hidden" name="kindle_book_mapping_flag[book_id]" id="kindle_book_mapping_flag_book_id" />
+        <input type="submit" name="commit" value="Report Problem" class="gr-button" />
+        &nbsp;
+        <button type="button"
+                id="js-wrongBookKindlePreviewScreenCancelLink"
+                class="gr-buttonAsLink gr-buttonAsLink--quiet">
+        Cancel
+        </button>
+</form>    </div>
+  </div>
+</div>
+<div id="js-wrongBookKindlePreviewScreenConfirmation"
+     class="wrongBookKindlePreviewScreenConfirmation"
+     style="display:none;">
+  <p>Thanks for telling us about the problem.</p>
+  <button type="button" class="gr-button" id="js-wrongBookKindlePreviewScreenConfirmationDismiss">
+    Return to Book Page
+  </button>
+</div>
+<div id="kindleCloudReaderBook15711652" class="kindleCloudReader" style="display: none;">
+  <div class="topBanner">
+    <a id="wrongBookLink" class="js-wrongBookKindlePreview" data-book-id="15711652" href="#">Not the book you’re looking for?</a>
+    <h2 class="kindlePreviewHeader">
+      Preview — <cite>A Cure for the Condition</cite>
+        by Amy Surprenant
+    </h2>
+  </div>
+  <iframe id="kindleCloudReader">
+    <iframe id="wrongBookKindlePreviewScreen"></iframe>
+  </iframe>
+</div>
+
+</div>
+
+
+
+      <br>
+  <a class="gr-hyperlink actionLinkLite" href="http://www.goodreads.com/reader/24423-a-cure-for-the-condition?return_to=%2Fbook%2Fshow%2F15711652-a-cure-for-the-condition">Read Excerpt</a>
+
+</div>
+
+<div id="metacol" class="last col">
+<h1 id="bookTitle" class="gr-h1 gr-h1--serif" itemprop="name">
+      A Cure for the Condition
+</h1>
+<h2 id="bookSeries">
+    <a class="greyText" href="/series/92259-cure">
+        (Cure  #1)
+</a></h2>
+
+<div id="bookAuthors" class="">
+  <span class='by'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<div class='authorName__container'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/6425551.Amy_Surprenant"><span itemprop="name">Amy Surprenant</span></a> <span class="greyText">(Goodreads Author)</span>
+</div>
+</span>
+
+</div>
+
+<div id="bookMeta"
+     class="uitext stacked"
+     style="position: relative"
+     itemprop="aggregateRating"
+     itemscope
+     itemtype="https://schema.org/AggregateRating">
+      <!--
+Partial expects the following locals:
+  - review_stats
+  - shelving_stats
+  - display_user_id
+-->
+
+<span class="stars staticStars notranslate"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span>
+<span itemprop="ratingValue">
+  3.82
+</span>
+<span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a id="rating_details" class="actionLinkLite" style="cursor: pointer; " href="#" onclick="return false">Rating details</a><script>
+//<![CDATA[
+      var newTip = new Tip($('rating_details'), "\n    <div id=\"moreBookData\" class=\"bookMeta\" >\n  \n\n  \n\n<table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\">\n      <tr>\n        <th width=\"25\" class=\"right\">5&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 28%;\" title=\"2 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          18% (2)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">4&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 100%;\" title=\"7 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          63% (7)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">3&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 14%;\" title=\"1 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          9% (1)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">2&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          0% (0)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">1&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 14%;\" title=\"1 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          9% (1)\n        <\/td>\n      <\/tr>\n\n<\/table>\n\n\n    <span class=\"value\">91<\/span>% of people liked it\n\n  <table>\n    <tr>\n      <td><strong>All editions:<\/strong><\/td>\n      <td>\n        <span class=\"value\">3.82<\/span> average rating,\n        <span class=\"value\">11<\/span> ratings,\n        <span class=\"value\">3<\/span> reviews,\n        added by <span class=\"value\">231<\/span> people,\n        <span class=\"value\">209<\/span> to-reads\n      <\/td>\n    <\/tr>\n\n      <tr>\n        <td><strong>This edition:<\/strong><\/td>\n        <td>\n          <span class=\"value\">3.82<\/span> average rating,\n          <span class=\"value\">11<\/span> ratings,\n          <span class=\"value\">3<\/span> reviews,\n          added by <span class=\"value\">231<\/span> people\n        <\/td>\n      <\/tr>\n  <\/table>\n<\/div>\n\n", { style: 'goodreads', stem: 'topMiddle', hook: { tip: 'topMiddle', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'click', showOn: 'click', closeButton: true, title: 'Rating details' });
+      $('rating_details').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script><span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a class="gr-hyperlink" href="#other_reviews">
+  <meta itemprop="ratingCount" content="11" />
+  11
+  ratings
+</a><span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a class="gr-hyperlink" href="#other_reviews">
+    <meta itemprop="reviewCount" content="3" />
+    3
+    reviews
+</a>
+</div>
+
+<div id="descriptionContainer">
+  
+      <div id="description" class="readable stacked" style="right:0">
+        
+<span id="freeTextContainer11753184196640343582">When seventeen-year-old Catherine assumes the throne as Queen of Cannary following her mother’s murder, she is forced to punish the man she loves, but when she develops a serious heart disease, the only cure for her condition may be the truth.<br/><br/>Read the next in the series:<br/><br/><a target='_blank' rel='noopener nofollow' href='https://www.goodreads.com/book/show/16151447-a-cure-for-the-past'>http://www.goodreads.com/book/show/16...</a></span>
+  <span id="freeText11753184196640343582" style="display:none">When seventeen-year-old Catherine assumes the throne as Queen of Cannary following her mother’s murder, she is forced to punish the man she loves, but when she develops a serious heart disease, the only cure for her condition may be the truth.<br /><br />Read the next in the series:<br /><br /><a target="_blank" rel="noopener nofollow" href="https://www.goodreads.com/book/show/16151447-a-cure-for-the-past">http://www.goodreads.com/book/show/16...</a></span>
+  <a data-text-id="11753184196640343582" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+      </div>
+</div>
+
+    <div id=buyButtonContainer class="uitext buttons buyableFeature u-marginTopXSmall u-paddingBottomXSmall u-bottomGrayBorder" data-book-id=15711652 >
+
+    <div class="u-positionRelative">
+      <h2 class='buyButtonContainer__title u-inlineBlock'%>Get A Copy</h2>
+    </div>
+
+    <ul class="buyButtonBar left"><li><a class="buttonBar" target="_blank" rel="no_follow noopener noreferrer" id="buyButton" href="/buy_buttons/12/follow?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;ref=x_gr_w_bb_sout&amp;sub_page_type=show&amp;tag=x_gr_w_bb_sout-20">Amazon</a></li><li><div id="buyDropButtonStores" class=" dropButton" onmouseover="$(this).down(&#39;.floatingBox&#39;).show()" onmouseout="$(this).down(&#39;.floatingBox&#39;).hide()"><a class="buttonBar" url="/book/15711652/get_a_copy" href="/book/15711652/get_a_copy">Online Stores&nbsp;&#9662;</a><div class="floatingBox buyBox" style="display:none"><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/10?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;ref=x_gr_w_bb_audible&amp;source=dropdown&amp;sub_page_type=show">Audible</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/3?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;source=dropdown&amp;sub_page_type=show">Barnes &amp; Noble</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/1027?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;source=dropdown&amp;sub_page_type=show">Walmart eBooks</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/2102?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;source=dropdown&amp;sub_page_type=show">Apple Books</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/8036?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;source=dropdown&amp;sub_page_type=show">Google Play</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/4?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;source=dropdown&amp;sub_page_type=show">Abebooks</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/882?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;source=dropdown&amp;sub_page_type=show">Book Depository</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/5?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;source=dropdown&amp;sub_page_type=show">Alibris</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/9?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;source=dropdown&amp;sub_page_type=show">Indigo</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/107?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;source=dropdown&amp;sub_page_type=show">Better World Books</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/7?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;source=dropdown&amp;sub_page_type=show">IndieBound</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/92?book_id=15711652&amp;page_type=book&amp;page_type_id=15711652&amp;source=dropdown&amp;sub_page_type=show">Thriftbooks</a></div></div></li><li></li><li>  <a class="buttonBar" href="/ebooks/download/15711652-a-cure-for-the-condition">Download Excerpt</a>
+</li></ul>
+    <div class="clear"></div>
+  </div>
+
+
+<div id="details" class="uitext darkGreyText">
+      <div class="row"><span itemprop="bookFormat">Paperback</span>, <span itemprop="numberOfPages">312 pages</span></div>
+
+      <div class="row">
+            Published
+        June 1st 2012
+         by Whiskey Creek Press
+
+      </div>
+
+  <div class="buttons">
+    <a id="bookDataBoxShow" class="left inter actionLinkLite" style="" href="#" onclick="$j(&#39;#bookDataBoxShow&#39;).hide(); $j(&#39;#bookDataBoxHide&#39;).show(); $j(&#39;#bookDataBox&#39;).show();
+                         ; return false;">More Details...</a>
+
+        <div id="bookDataBox" class="uitext" style="display: none; margin: 10px 0">
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">ISBN13</div>
+                <div class="infoBoxRowItem" itemprop='isbn'>9781611605037</div>
+              </div>
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Edition Language</div>
+                <div class="infoBoxRowItem" itemprop='inLanguage'>English</div>
+              </div>
+
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Series</div>
+                <div class="infoBoxRowItem">
+                  <a href="/series/92259-cure">Cure  #1</a>                                  </div>
+              </div>
+
+
+
+          <div class="clear"></div>
+
+          <div class='infoBoxRowTitle otherEditions'>
+Other Editions
+</div>
+<div class='infoBoxRowItem'>
+<div class='darkGreyText noEditionsText uitext'>
+None found
+</div>
+<div class='otherEditionsActions'>
+<a class="actionLinkLite" href="/work/editions/21378599-a-cure-for-the-condition-cure-series-1">All Editions</a>
+<span class='greyText'>
+ | 
+</span>
+<a rel="nofollow" href="/book/new?author%5Bname%5D=Amy+Surprenant&amp;book%5Btitle%5D=A+Cure+for+the+Condition+%28Cure+Series+%231%29&amp;work%5Bid%5D=21378599">Add a New Edition</a>
+
+<span class='secondaryCopy'>
+ | 
+</span>
+<a rel="nofollow" class="actionLinkLite" href="/book/combine/6425551">Combine</a>
+</div>
+</div>
+
+
+        </div>
+
+        <a id="bookDataBoxHide" class="left inter actionLinkLite" style="display: none;" href="#" onclick="$j(&#39;#bookDataBoxShow&#39;).show(); $j(&#39;#bookDataBoxHide&#39;).hide(); $j(&#39;#bookDataBox&#39;).hide();
+                              ; return false;">...Less Detail</a>
+
+         <a class="inter uitext greyText right" rel="nofollow" href="/book/edit/15711652-a-cure-for-the-condition">Edit Details</a>
+
+    <div class="clear"></div>
+  </div>
+</div>
+
+
+</div>
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+
+  <div id='lazy_loadable_view'>
+    
+
+<a name='friends_reviews'></a>
+<div id="friendReviews" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Friend Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><span class='mediumText'>
+To see what your friends thought of this book,
+<a class="actionLink" rel="nofollow" href="/user/new">please sign up.</a>
+</span>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+<div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Reader Q&amp;A</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class='communityQASignedOutMessage mediumText'>
+To ask other readers questions about
+<a class="bookLink" href="/book/show/15711652-a-cure-for-the-condition">A Cure for the Condition</a>,
+<a class="actionLink" rel="nofollow" href="/user/new">please sign up</a>.
+</div>
+
+<div class='noQuestionsMessage'>
+<p>
+Be the first to ask a question about A Cure for the Condition
+</p>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/list/book/15711652">Lists with This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">  <div class="listRowsFull">
+    <div class="row" id="topRow">
+          <div class="cell">
+            
+<div class="listImgs">
+  <a href="/list/show/13668.Historical_romance_where_heroine_gets_pregnant_in_a_large_part_of_the_story"><img alt="Suddenly You by Lisa Kleypas" title="Suddenly You by Lisa Kleypas" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298455811l/161910._SX98_.jpg" /></a><a href="/list/show/13668.Historical_romance_where_heroine_gets_pregnant_in_a_large_part_of_the_story"><img alt="Annie&#39;s Song by Catherine Anderson" title="Annie&#39;s Song by Catherine Anderson" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325836635l/659600._SY160_.jpg" /></a><a href="/list/show/13668.Historical_romance_where_heroine_gets_pregnant_in_a_large_part_of_the_story"><img alt="The Secret Diaries of Miss Miranda Cheever by Julia Quinn" title="The Secret Diaries of Miss Miranda Cheever by Julia Quinn" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1274212433l/110387._SX98_.jpg" /></a><a href="/list/show/13668.Historical_romance_where_heroine_gets_pregnant_in_a_large_part_of_the_story"><img alt="Because You&#39;re Mine by Lisa Kleypas" title="Because You&#39;re Mine by Lisa Kleypas" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620795836l/114172._SX98_.jpg" /></a><a href="/list/show/13668.Historical_romance_where_heroine_gets_pregnant_in_a_large_part_of_the_story"><img alt="Never Love a Highlander by Maya Banks" title="Never Love a Highlander by Maya Banks" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348707357l/10378106._SY160_.jpg" /></a>
+</div>
+<a class="listTitle" href="/list/show/13668.Historical_romance_where_heroine_gets_pregnant_in_a_large_part_of_the_story">Historical romance where heroine gets pregnant in a large part of the story</a><br />
+<div class="listFullDetails">
+    163 books
+    &mdash;
+    395 voters
+
+
+
+</div>
+
+          </div>
+          <div class="cell">
+            
+<div class="listImgs">
+  <a href="/list/show/22652.Swoon_Worthy_Books"><img alt="Fifty Shades Freed by E.L. James" title="Fifty Shades Freed by E.L. James" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320316311l/12881778._SX98_.jpg" /></a><a href="/list/show/22652.Swoon_Worthy_Books"><img alt="Fifty Shades of Grey by E.L. James" title="Fifty Shades of Grey by E.L. James" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385207843l/10818853._SX98_.jpg" /></a><a href="/list/show/22652.Swoon_Worthy_Books"><img alt="Fifty Shades Darker by E.L. James" title="Fifty Shades Darker by E.L. James" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631260114l/11857408._SX98_.jpg" /></a><a href="/list/show/22652.Swoon_Worthy_Books"><img alt="A Cure for the Condition by Amy Surprenant" title="A Cure for the Condition by Amy Surprenant" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340045375l/15711652._SX98_.jpg" /></a><a href="/list/show/22652.Swoon_Worthy_Books"><img alt="The Wide Game by Michael  West" title="The Wide Game by Michael  West" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372905605l/18160656._SX98_.jpg" /></a>
+</div>
+<a class="listTitle" href="/list/show/22652.Swoon_Worthy_Books">Swoon Worthy Books</a><br />
+<div class="listFullDetails">
+    21 books
+    &mdash;
+    3 voters
+
+
+
+</div>
+
+          </div>
+    </div>
+  </div>
+<br class="clear" />
+
+<br class='clear'>
+<a class="actionLink" style="float:right" href="/list/book/15711652">More lists with this book...</a>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div id="other_reviews" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Community Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div id='reviews'>
+
+<div class="bookReviewsPaginationCount">
+    <span class="smallText">
+Showing 1-39
+</span>
+
+</div>
+
+
+<div id="reviewControls"
+     class="reviewControls u-defaultType clearFix">
+  <div class="reviewControls--left">
+    <span class="stars staticStars notranslate"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span><span size="12x12" class="staticStar p0"></span></span>
+    <span class="u-visuallyHidden">Average rating</span>
+    3.82
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+  </div>
+  <div class="reviewControls__ratingDetails reviewControls--left rating_graph">
+    <span id="reviewControls__ratingDetailsMiniGraph">
+    <script type="text/javascript">
+    //<![CDATA[
+      $j(document).ready(function() {
+        var vis = renderRatingGraph(
+            [2, 7, 1, 0, 1],
+            "reviewControls__ratingDetailsMiniGraph");
+        $j("#reviewControls__ratingDetailsMiniGraph").prependTo("#rating_details_tip");
+      });
+    //]]>
+    </script>
+    </span>
+    <a id="rating_details_tip" class="gr-hyperlink" style="cursor: pointer; " href="#" onclick="return false"> Rating details</a><script>
+//<![CDATA[
+      var newTip = new Tip($('rating_details_tip'), "\n        <div id=\"moreBookData\" class=\"bookMeta\" >\n  \n\n  \n\n<table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\">\n      <tr>\n        <th width=\"25\" class=\"right\">5&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 28%;\" title=\"2 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/15711652-a-cure-for-the-condition?rating=5\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'Qont3ghE0Imw+gLCdHMzoN/GALK8Ri4p3PJnMKEczDuYpCbuUqNdrtMsuahY9HD8d0F3z5uYb0nuDXs2a7vQkA==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          18% (2)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">4&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 100%;\" title=\"7 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/15711652-a-cure-for-the-condition?rating=4\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'iC61jfxK+jvvkK/HHkux87Ca0Hq3GQp2SQusi+4Bn3lSA369pq13HIxGFK0yzPKvGB2nB5DHSxZ79LCNJKaD0g==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          63% (7)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">3&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 14%;\" title=\"1 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/15711652-a-cure-for-the-condition?rating=3\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'hPwtEszu5+5HTWjzYCeV4dR9gLm/HcbqzJmFluMWRdBe0eYilglqySSb05lMoNa9fPr3xJjDh4r+ZpmQKbFZew==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          9% (1)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">2&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 0%;\" title=\"0 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/15711652-a-cure-for-the-condition?rating=2\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'tpYnM0X/wWmzFobrn4VUyQB7YejsWLihdgGS+Q1q1H9su+wDHxhMTtDAPYGzAheVqPwWlcuG+cFE/o7/x83I1A==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          0% (0)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">1&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 14%;\" title=\"1 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/15711652-a-cure-for-the-condition?rating=1\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'76zVD6qcyBxrahLg1YtawR1BaGgMoFlAMdZJAiK9HwY1gR4/8HtFOwi8qYr5DBmdtcYfFSt+GCADKVUE6BoDrQ==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          9% (1)\n        <\/td>\n      <\/tr>\n\n<\/table>\n\n\n    <span class=\"value\">91<\/span>% of people liked it\n\n  <table>\n    <tr>\n      <td><strong>All editions:<\/strong><\/td>\n      <td>\n        <span class=\"value\">3.82<\/span> average rating,\n        <span class=\"value\">11<\/span> ratings,\n        <span class=\"value\">3<\/span> reviews,\n        added by <span class=\"value\">231<\/span> people,\n        <span class=\"value\">209<\/span> to-reads\n      <\/td>\n    <\/tr>\n\n      <tr>\n        <td><strong>This edition:<\/strong><\/td>\n        <td>\n          <span class=\"value\">3.82<\/span> average rating,\n          <span class=\"value\">11<\/span> ratings,\n          <span class=\"value\">3<\/span> reviews,\n          added by <span class=\"value\">231<\/span> people\n        <\/td>\n      <\/tr>\n  <\/table>\n<\/div>\n\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true, title: 'book data' });
+      $('rating_details_tip').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details_tip').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>  </div>
+
+  <div class="reviewControls--left greyText">
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+    11
+    ratings
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+    3
+    reviews
+  </div>
+
+  <br></br>
+  <div class="reviewControls__searchBox reviewControls--right">
+    <form class="reviewTextSearch" action="/book/reviews/15711652" accept-charset="UTF-8" data-remote="true" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<div class='searchBox'>
+<input type="text" name="search_text" id="search_text" aria-label="Search review text" placeholder="Search review text" class="searchBox__input searchBox__input--reviewSearch reviewControls__searchBox__input" />
+<button name="button" type="submit" class="searchBox__icon searchBox__icon--magnifyingGlass searchBox__icon--reviewSearch gr-iconButton              reviewControls__searchBox__icon                          reviewControls__searchBox__icon--magnifyingGlass"></button>
+<img alt="Loading" class="searchBox__icon searchBox__icon--loadingSpinner reviewControls__searchBox__icon                         reviewControls__searchBox__icon--loadingSpinner" src="https://s.gr-assets.com/assets/loading-45f04d682f1e9151cf1e6fb18a1bde21.gif" />
+</div>
+</form>
+
+
+  </div>
+
+    <div class="reviewControls--left">
+      <form class="reviewLanguageFilter" action="/book/reviews/15711652" accept-charset="UTF-8" data-remote="true" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+        <select name="language_code" id="language_code"><option value="">All Languages</option><option value="en">English &lrm;(3)</option></select>
+</form>    </div>
+
+    <div class="reviewControls--left">
+
+      <a class="uitext" rel="nofollow" id="span_class_gr-hyperlink_more_filters_span_tip_158" style="cursor: pointer; " href="#" onclick="return false"><span class="gr-hyperlink">More filters</span></a><script>
+//<![CDATA[
+      var newTip = new Tip($('span_class_gr-hyperlink_more_filters_span_tip_158'), "\n          <div class=\"greyText smallText\" style=\"white-space:nowrap\">\n\n            <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/15711652-a-cure-for-the-condition?rating=\">all <span class=\"greyText\">(231)<\/span><\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/15711652-a-cure-for-the-condition?rating=5&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;R7jcweNWI20jbYFRUp0B8q8bDySczSybWtk8Ze/RgM2dlRfxubGuSkC7Ojt+GkKuB5x4WbsTbftoJiBjJXacZg==&#39;)}); return false;\">5 stars <span class=\"greyText\">(2)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/15711652-a-cure-for-the-condition?rating=4&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;eE0rgO6HHT4Yqbs9c4gefp8/n196rZLuUizwQWY1dy6iYOCwtGCQGXt/AFdfD10iN7joIl1z045g0+xHrJJrhQ==&#39;)}); return false;\">4 stars <span class=\"greyText\">(7)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/15711652-a-cure-for-the-condition?rating=3&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;/07iL4sUCskgQ3Bhvz5k49PLv5depVZCTBWwgE3OQUMlYykf0fOH7kOVywuTuSe/e0zI6nl7FyJ+6qyGh2ld6A==&#39;)}); return false;\">3 stars <span class=\"greyText\">(1)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/15711652-a-cure-for-the-condition?rating=2&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;26LckTay9pRcuBL55XPu2ylFSk9HQLLUDGNcxbfgnpEBjxehbFV7sz9uqZPJ9K2HgcI9MmCe87Q+nEDDfUeCOg==&#39;)}); return false;\">2 stars <span class=\"greyText\">(0)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/15711652-a-cure-for-the-condition?rating=1&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;izi8Oyx9PeGDXWw+CZHZm/PKMOLQw0zWI+4KYp57JS9RFXcLdpqwxuCL11QlFprHW01Hn/cdDbYRERZkVNw5hA==&#39;)}); return false;\">1 star <span class=\"greyText\">(1)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n          <\/div>\n\n          <div class=\"bookMeta\">\n            editions:\n            <span class=\"loadingLinkSpan\"><a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/15711652-a-cure-for-the-condition?edition_reviews=false\">all<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n            <span class=\"loadingLinkSpan\"><a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/15711652-a-cure-for-the-condition?edition_reviews=true\">this edition<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            &nbsp;\n            content:\n            <span class=\"loadingLinkSpan\"><a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/15711652-a-cure-for-the-condition?text_only=false\">any<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n            <span class=\"loadingLinkSpan\"><a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/15711652-a-cure-for-the-condition?text_only=true\">text-only<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n        <\/div>\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_gr-hyperlink_more_filters_span_tip_158').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_gr-hyperlink_more_filters_span_tip_158').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>    </div>
+
+    <div class="reviewControls--left">
+      <span class="greyText">&nbsp;|&nbsp;</span>
+    </div>
+      <div class="reviewControls--left">
+      <a class="uitext" id="span_class_gr-hyperlink_sort_order_span_tip_928" style="cursor: pointer; " href="#" onclick="return false"><span class="gr-hyperlink">Sort order</span></a><script>
+//<![CDATA[
+      var newTip = new Tip($('span_class_gr-hyperlink_sort_order_span_tip_928'), "\n        <span class=\"reviewControls__sortOrders\">\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/15711652-a-cure-for-the-condition?sort=default\">Default<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n          <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/15711652-a-cure-for-the-condition?sort=newest\">Newest<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n          <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/15711652-a-cure-for-the-condition?sort=oldest\">Oldest<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n        <\/span>\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_gr-hyperlink_sort_order_span_tip_928').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_gr-hyperlink_sort_order_span_tip_928').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>    </div>
+</div>
+
+
+
+
+
+
+        <div data-react-class="ReactComponents.ReviewCta" data-react-props="{&quot;bookId&quot;:&quot;15711652&quot;,&quot;user&quot;:{&quot;viewableName&quot;:&quot;&quot;,&quot;profileImage&quot;:&quot;https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png&quot;,&quot;profileUrl&quot;:null},&quot;actionType&quot;:&quot;community_reviews_cta&quot;,&quot;destinationPath&quot;:&quot;/review/edit/15711652&quot;,&quot;bookTitle&quot;:&quot;A Cure for the Condition (Cure Series #1)&quot;,&quot;ratingClickstreamRef&quot;:&quot;cr_rtg_str_bsh&quot;}"><div class="reviewCta" data-reactid=".27r7s8fg93e" data-react-checksum="-294503388"><div class="reviewCta__left" data-reactid=".27r7s8fg93e.0"><img class="rectangularIcon rectangularIcon--border" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="" data-reactid=".27r7s8fg93e.0.0"/></div><div class="reviewCta__right" data-reactid=".27r7s8fg93e.1"><div class="u-marginLeftXSmall reviewCta__label" data-reactid=".27r7s8fg93e.1.0"><noscript data-reactid=".27r7s8fg93e.1.0.0"></noscript><span data-reactid=".27r7s8fg93e.1.0.1">Start your review of </span><span data-reactid=".27r7s8fg93e.1.0.2">A Cure for the Condition (Cure Series #1)</span></div><div class="reviewCta__controls" data-reactid=".27r7s8fg93e.1.1"><div class="userRating" data-reactid=".27r7s8fg93e.1.1.0"><div class="userRating__starsWrapper" tabindex="0" role="group" data-reactid=".27r7s8fg93e.1.1.0.1"><button class="userRating__star userRating__star--mediumStars" title="Rate 1 star" data-reactid=".27r7s8fg93e.1.1.0.1.$1"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 2 stars" data-reactid=".27r7s8fg93e.1.1.0.1.$2"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 3 stars" data-reactid=".27r7s8fg93e.1.1.0.1.$3"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 4 stars" data-reactid=".27r7s8fg93e.1.1.0.1.$4"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 5 stars" data-reactid=".27r7s8fg93e.1.1.0.1.$5"></button></div></div><button class="gr-button u-marginTopBottomXSmall reviewCta__writeButton" data-reactid=".27r7s8fg93e.1.1.1">Write a review</button></div></div></div></div>
+
+
+<div id="bookReviews">
+  
+
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section firstReview">
+      
+
+<div id="review_350856113" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/350856113" />
+    <a title="Cacey Hopper" class="left imgcol" href="/user/show/2326265-cacey-hopper"><img alt="Cacey Hopper" src="https://images.gr-assets.com/users/1339102676p2/2326265.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/350856113?book_show_action=true">Jun 18, 2012</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Cacey Hopper" class="user" itemprop="url" name="Cacey Hopper" href="/user/show/2326265-cacey-hopper">Cacey Hopper</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer350856113" class="readable"
+              >
+            
+<span id="freeTextContainer11606470171705329808">A Cure For The Condition is a classic tale of an abiding love between two characters, spanning the course of two decades. The main character, Catherine the queen of the fictitious land of Cannary,is both regal and lovable at the same time. (Although, I enjoyed drunk, tipsy Catherine far more than the other versions in this book!) Malcolm, is a bit of a scoundrel, but no less appealing than Catherine, perhaps more so! When tragedy strikes Catherine&apos;s kingdom, she is forced to punish those respons</span>
+  <span id="freeText11606470171705329808" style="display:none">A Cure For The Condition is a classic tale of an abiding love between two characters, spanning the course of two decades. The main character, Catherine the queen of the fictitious land of Cannary,is both regal and lovable at the same time. (Although, I enjoyed drunk, tipsy Catherine far more than the other versions in this book!) Malcolm, is a bit of a scoundrel, but no less appealing than Catherine, perhaps more so! When tragedy strikes Catherine's kingdom, she is forced to punish those responsible for the death of her mother and step-father, going against her own heart in the process. As the years go by and Catherine continues to hold Malcolm at arms lengths her health deteriorates in return. In the end she will learn that some secrets cost far too much to keep, and the truth always will set you free. I thoroughly enjoyed this book. The writing is especially wonderful and the characters rich and multi-faceted.<br /><br />Cacey Hopper, author of "London Escape"</span>
+  <a data-text-id="11606470171705329808" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review350856113">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link350856113" title="Flag this review as inappropriate." href="/flagged/new?resource_id=350856113&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F15711652-a-cure-for-the-condition">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_350856113'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F15711652-a-cure-for-the-condition">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/350856113?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_350856113' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_373188245" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/373188245" />
+    <a title="Brooke" class="left imgcol" href="/user/show/11100951-brooke"><img alt="Brooke" src="https://images.gr-assets.com/users/1377486598p2/11100951.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/373188245?book_show_action=true">Jul 20, 2012</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Brooke" class="user" itemprop="url" name="Brooke" href="/user/show/11100951-brooke">Brooke</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer373188245" class="readable"
+              >
+            
+<span id="freeTextContainer11099160452714417052">A Cure For The Condition is a great read from start to finish! Filled with romance, heartache, and suspense... I can&apos;t wait to read the next book in this series -A Cure for the Past.<a href='https://www.goodreads.com/book/show/15711652.A_Cure_for_the_Condition__Cure_Series__1_' title='A Cure for the Condition (Cure Series #1) by Amy Croall' rel='nofollow noopener'>
+  <img src='https://s3.amazonaws.com/photo.goodreads.com/books/1340045375s/15711652.jpg' alt='A Cure for the Condition (Cure Series #1) by Amy Croall' class='gr-hostedUserImg'/>
+</a></span>
+  <span id="freeText11099160452714417052" style="display:none">A Cure For The Condition is a great read from start to finish! Filled with romance, heartache, and suspense... I can't wait to read the next book in this series -A Cure for the Past.<a href="https://www.goodreads.com/book/show/15711652.A_Cure_for_the_Condition__Cure_Series__1_" title="A Cure for the Condition (Cure Series #1) by Amy Croall" rel="nofollow noopener">
+  <img src="https://s3.amazonaws.com/photo.goodreads.com/books/1340045375s/15711652.jpg" alt="A Cure for the Condition (Cure Series #1) by Amy Croall" class="gr-hostedUserImg">
+</a></span>
+  <a data-text-id="11099160452714417052" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review373188245">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link373188245" title="Flag this review as inappropriate." href="/flagged/new?resource_id=373188245&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F15711652-a-cure-for-the-condition">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_373188245'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F15711652-a-cure-for-the-condition">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/373188245?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_373188245' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_386609337" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/386609337" />
+    <a title="Mary Urbanske" class="left imgcol" href="/user/show/11586465-mary-urbanske"><img alt="Mary Urbanske" src="https://images.gr-assets.com/users/1344180955p2/11586465.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/386609337?book_show_action=true">Aug 07, 2012</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Mary Urbanske" class="user" itemprop="url" name="Mary Urbanske" href="/user/show/11586465-mary-urbanske">Mary Urbanske</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer386609337" class="readable"
+              >
+            
+<span id="freeTextContainer656100188003740227">Such a classic story that never gets old. Love, friendship and romance along with some witty banter amoung the characters makes this a fun read! Thanks, Amy!</span>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review386609337">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link386609337" title="Flag this review as inappropriate." href="/flagged/new?resource_id=386609337&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F15711652-a-cure-for-the-condition">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_386609337'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F15711652-a-cure-for-the-condition">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/386609337?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_386609337' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_398275422" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/398275422" />
+    <a title="Paula Bianchi" class="left imgcol" href="/user/show/12125339-paula-bianchi"><img alt="Paula Bianchi" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Paula Bianchi" class="user" itemprop="url" name="Paula Bianchi" href="/user/show/12125339-paula-bianchi">Paula Bianchi</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/398275422?book_show_action=true">Aug 22, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1820048782" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1820048782" />
+    <a title="Mina Singh" class="left imgcol" href="/user/show/16596250-mina-singh"><img alt="Mina Singh" src="https://images.gr-assets.com/users/1456350375p2/16596250.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Mina Singh" class="user" itemprop="url" name="Mina Singh" href="/user/show/16596250-mina-singh">Mina Singh</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1820048782?book_show_action=true">Nov 23, 2016</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_654869469" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/654869469" />
+    <a title="AW" class="left imgcol" href="/user/show/21775722-aw"><img alt="AW" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="AW" class="user" itemprop="url" name="AW" href="/user/show/21775722-aw">AW</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="did not like it"><span size="15x15" class="staticStar p10">did not like it</span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/654869469?book_show_action=true">May 01, 2020</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1234173462" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1234173462" />
+    <a title="Humeira Kazmi" class="left imgcol" href="/user/show/11111635-humeira-kazmi"><img alt="Humeira Kazmi" src="https://images.gr-assets.com/users/1442875746p2/11111635.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Humeira Kazmi" class="user" itemprop="url" name="Humeira Kazmi" href="/user/show/11111635-humeira-kazmi">Humeira Kazmi</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1234173462?book_show_action=true">Mar 22, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_371477664" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/371477664" />
+    <a title="Holly " class="left imgcol" href="/user/show/1058083-holly"><img alt="Holly " src="https://images.gr-assets.com/users/1437576124p2/1058083.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Holly " class="user" itemprop="url" name="Holly " href="/user/show/1058083-holly">Holly </a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/371477664?book_show_action=true">Jul 18, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_435925117" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/435925117" />
+    <a title="Anthea" class="left imgcol" href="/user/show/13706665-anthea"><img alt="Anthea" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Anthea" class="user" itemprop="url" name="Anthea" href="/user/show/13706665-anthea">Anthea</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/435925117?book_show_action=true">Oct 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_4508880107" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/4508880107" />
+    <a title="Munich Book Club" class="left imgcol" href="/user/show/145682680-munich-book-club"><img alt="Munich Book Club" src="https://images.gr-assets.com/users/1641501423p2/145682680.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Munich Book Club" class="user" itemprop="url" name="Munich Book Club" href="/user/show/145682680-munich-book-club">Munich Book Club</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/4508880107?book_show_action=true">Jan 27, 2022</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+    <div class="elementListBrownSeparator"></div>
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_350851022" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/350851022" />
+    <a title="Amy Surprenant" class="left imgcol" href="/user/show/8389935-amy-surprenant"><img alt="Amy Surprenant" src="https://images.gr-assets.com/users/1442633283p2/8389935.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" rel="nofollow" href="/review/show/350851022?book_show_action=true">Jun 18, 2012</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Amy Surprenant" class="user" itemprop="url" name="Amy Surprenant" href="/user/show/8389935-amy-surprenant">Amy Surprenant</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+
+          <span class="greyText">&nbsp;&middot;&nbsp;</span> (Review from the author)
+
+
+        
+
+    </div>
+
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review350851022">
+  <td colspan="2">
+    <div class="updateActionLinks">
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_350851022'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F15711652-a-cure-for-the-condition">Like</a></span>
+
+    </div>
+
+
+    <div id='comments_for_review_350851022' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_350861995" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/350861995" />
+    <a title="Brooklynn" class="left imgcol" href="/user/show/6422341-brooklynn"><img alt="Brooklynn" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Brooklynn" class="user" itemprop="url" name="Brooklynn" href="/user/show/6422341-brooklynn">Brooklynn</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/350861995?book_show_action=true">Jun 18, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_359404045" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/359404045" />
+    <a title="MaryannC. Book Freak" class="left imgcol" href="/user/show/3808308-maryannc-book-freak"><img alt="MaryannC. Book Freak" src="https://images.gr-assets.com/users/1325562620p2/3808308.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="MaryannC. Book Freak" class="user" itemprop="url" name="MaryannC. Book Freak" href="/user/show/3808308-maryannc-book-freak">MaryannC. Book Freak</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/359404045?book_show_action=true">Jul 01, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370412221" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370412221" />
+    <a title="Kassy" class="left imgcol" href="/user/show/11024959-kassy"><img alt="Kassy" src="https://images.gr-assets.com/users/1342507735p2/11024959.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Kassy" class="user" itemprop="url" name="Kassy" href="/user/show/11024959-kassy">Kassy</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370412221?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370413269" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370413269" />
+    <a title="Brittini" class="left imgcol" href="/user/show/9627953-brittini"><img alt="Brittini" src="https://images.gr-assets.com/users/1431572257p2/9627953.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Brittini" class="user" itemprop="url" name="Brittini" href="/user/show/9627953-brittini">Brittini</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370413269?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370417828" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370417828" />
+    <a title="Theresa" class="left imgcol" href="/user/show/9328059-theresa"><img alt="Theresa" src="https://images.gr-assets.com/users/1348705584p2/9328059.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Theresa" class="user" itemprop="url" name="Theresa" href="/user/show/9328059-theresa">Theresa</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370417828?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370421011" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370421011" />
+    <a title="Sanchi" class="left imgcol" href="/user/show/10885053-sanchi"><img alt="Sanchi" src="https://images.gr-assets.com/users/1343078239p2/10885053.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Sanchi" class="user" itemprop="url" name="Sanchi" href="/user/show/10885053-sanchi">Sanchi</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370421011?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370433347" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370433347" />
+    <a title="Ruby" class="left imgcol" href="/user/show/10745627-ruby"><img alt="Ruby" src="https://images.gr-assets.com/users/1341619217p2/10745627.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Ruby" class="user" itemprop="url" name="Ruby" href="/user/show/10745627-ruby">Ruby</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370433347?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370443327" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370443327" />
+    <a title="Angie" class="left imgcol" href="/user/show/2430343-angie"><img alt="Angie" src="https://images.gr-assets.com/users/1362204715p2/2430343.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Angie" class="user" itemprop="url" name="Angie" href="/user/show/2430343-angie">Angie</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370443327?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370468128" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370468128" />
+    <a title="Kristie" class="left imgcol" href="/user/show/7246150-kristie"><img alt="Kristie" src="https://images.gr-assets.com/users/1331675561p2/7246150.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Kristie" class="user" itemprop="url" name="Kristie" href="/user/show/7246150-kristie">Kristie</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370468128?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370489611" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370489611" />
+    <a title="Cindy" class="left imgcol" href="/user/show/10750325-cindy"><img alt="Cindy" src="https://images.gr-assets.com/users/1557538400p2/10750325.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Cindy" class="user" itemprop="url" name="Cindy" href="/user/show/10750325-cindy">Cindy</a>
+      </span>
+
+          added it
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370489611?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370535884" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370535884" />
+    <a title="Carol" class="left imgcol" href="/user/show/3583291-carol"><img alt="Carol" src="https://images.gr-assets.com/users/1373297281p2/3583291.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Carol" class="user" itemprop="url" name="Carol" href="/user/show/3583291-carol">Carol</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370535884?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370540566" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370540566" />
+    <a title="Barb Gibbs" class="left imgcol" href="/user/show/9777652-barb-gibbs"><img alt="Barb Gibbs" src="https://images.gr-assets.com/users/1340804128p2/9777652.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Barb Gibbs" class="user" itemprop="url" name="Barb Gibbs" href="/user/show/9777652-barb-gibbs">Barb Gibbs</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370540566?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370541397" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370541397" />
+    <a title="Nicole" class="left imgcol" href="/user/show/7141899-nicole"><img alt="Nicole" src="https://images.gr-assets.com/users/1323391651p2/7141899.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Nicole" class="user" itemprop="url" name="Nicole" href="/user/show/7141899-nicole">Nicole</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370541397?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370557690" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370557690" />
+    <a title="Gabby" class="left imgcol" href="/user/show/8042691-gabby"><img alt="Gabby" src="https://images.gr-assets.com/users/1540735661p2/8042691.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Gabby" class="user" itemprop="url" name="Gabby" href="/user/show/8042691-gabby">Gabby</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370557690?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370562228" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370562228" />
+    <a title="Sara" class="left imgcol" href="/user/show/10814966-sara"><img alt="Sara" src="https://images.gr-assets.com/users/1341864302p2/10814966.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Sara" class="user" itemprop="url" name="Sara" href="/user/show/10814966-sara">Sara</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370562228?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370565479" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370565479" />
+    <a title="Cristine" class="left imgcol" href="/user/show/10343500-cristine"><img alt="Cristine" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Cristine" class="user" itemprop="url" name="Cristine" href="/user/show/10343500-cristine">Cristine</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370565479?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370578938" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370578938" />
+    <a title="Malyssa Latta" class="left imgcol" href="/user/show/10896825-malyssa-latta"><img alt="Malyssa Latta" src="https://images.gr-assets.com/users/1342137019p2/10896825.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Malyssa Latta" class="user" itemprop="url" name="Malyssa Latta" href="/user/show/10896825-malyssa-latta">Malyssa Latta</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370578938?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370584438" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370584438" />
+    <a title="Sarah" class="left imgcol" href="/user/show/9397182-sarah"><img alt="Sarah" src="https://images.gr-assets.com/users/1531372019p2/9397182.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Sarah" class="user" itemprop="url" name="Sarah" href="/user/show/9397182-sarah">Sarah</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370584438?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370591306" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370591306" />
+    <a title="Tamera Hall" class="left imgcol" href="/user/show/10908950-tamera-hall"><img alt="Tamera Hall" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Tamera Hall" class="user" itemprop="url" name="Tamera Hall" href="/user/show/10908950-tamera-hall">Tamera Hall</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370591306?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370594997" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370594997" />
+    <a title="Mariya" class="left imgcol" href="/user/show/2138564-mariya"><img alt="Mariya" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Mariya" class="user" itemprop="url" name="Mariya" href="/user/show/2138564-mariya">Mariya</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370594997?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370598469" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370598469" />
+    <a title="Colene" class="left imgcol" href="/user/show/9177865-colene"><img alt="Colene" src="https://images.gr-assets.com/users/1568249129p2/9177865.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Colene" class="user" itemprop="url" name="Colene" href="/user/show/9177865-colene">Colene</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370598469?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370624255" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370624255" />
+    <a title="Lauren" class="left imgcol" href="/user/show/5697225-lauren"><img alt="Lauren" src="https://images.gr-assets.com/users/1314831646p2/5697225.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Lauren" class="user" itemprop="url" name="Lauren" href="/user/show/5697225-lauren">Lauren</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370624255?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370625738" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370625738" />
+    <a title="April" class="left imgcol" href="/user/show/5719282-april"><img alt="April" src="https://images.gr-assets.com/users/1319687341p2/5719282.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="April" class="user" itemprop="url" name="April" href="/user/show/5719282-april">April</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370625738?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370637974" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370637974" />
+    <a title="Courtnie" class="left imgcol" href="/user/show/1183044-courtnie"><img alt="Courtnie" src="https://images.gr-assets.com/users/1304359042p2/1183044.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Courtnie" class="user" itemprop="url" name="Courtnie" href="/user/show/1183044-courtnie">Courtnie</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370637974?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370638240" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370638240" />
+    <a title="Judy Stacklin" class="left imgcol" href="/user/show/9577092-judy-stacklin"><img alt="Judy Stacklin" src="https://images.gr-assets.com/users/1587775332p2/9577092.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Judy Stacklin" class="user" itemprop="url" name="Judy Stacklin" href="/user/show/9577092-judy-stacklin">Judy Stacklin</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370638240?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370645850" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370645850" />
+    <a title="Amanda" class="left imgcol" href="/user/show/9196869-amanda"><img alt="Amanda" src="https://images.gr-assets.com/users/1457452623p2/9196869.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Amanda" class="user" itemprop="url" name="Amanda" href="/user/show/9196869-amanda">Amanda</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370645850?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370647937" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370647937" />
+    <a title="Natalie Davidson" class="left imgcol" href="/user/show/10931286-natalie-davidson"><img alt="Natalie Davidson" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Natalie Davidson" class="user" itemprop="url" name="Natalie Davidson" href="/user/show/10931286-natalie-davidson">Natalie Davidson</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370647937?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_370658019" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/370658019" />
+    <a title="Mandy" class="left imgcol" href="/user/show/5172606-mandy"><img alt="Mandy" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Mandy" class="user" itemprop="url" name="Mandy" href="/user/show/5172606-mandy">Mandy</a>
+      </span>
+
+          marked it as to-read
+
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/370658019?book_show_action=true">Jul 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+</div>
+
+<div class="uitext" style="float: right; margin-top: 10px">
+  
+
+</div>
+
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"><a class="actionLinkLite" rel="nofollow" href="/topic/new?context_id=15711652&amp;context_type=Book">new topic</a></div><a href="/topic/list_book/15711652-a-cure-for-the-condition">Discuss This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><table cellspacing='0' class='tableList uitext bookDiscussions' width='100%'>
+<tr>
+<th>topics&nbsp;</th>
+<th>posts&nbsp;</th>
+<th>views&nbsp;</th>
+<th class='nobreak'>last activity&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+
+	<tr>
+		<td>
+		    <b>
+          <a title="Q&amp;A with Amy Croall" class="actionLink" href="https://www.goodreads.com/topic/show/960374-a-cure-for-the-condition">Q&amp;A with Amy Croall:</a>
+        </b>
+      
+			<a class="actionLink" href="/topic/show/960374-a-cure-for-the-condition">A Cure for the Condition</a>
+		</td>
+		<td class="nobreak">
+		  1
+		  
+		</td>
+		<td>7</td>
+		<td>Jul 18, 2012 12:02AM</td>
+		<td>
+				&nbsp;
+		</td>
+	</tr>
+	<tr>
+		<td>
+      
+			<a class="actionLink" href="/topic/show/960035-what-is-it-about-history-and-love-that-makes-us-want-to-read">What is it about history and love that makes us want to read?</a>
+		</td>
+		<td class="nobreak">
+		  1
+		  
+		</td>
+		<td>2</td>
+		<td>Jul 17, 2012 06:22PM</td>
+		<td>
+				&nbsp;
+		</td>
+	</tr>
+
+</table>
+<div class='moreLinks right'>
+<a class="actionLink" href="/topic/list_book/15711652">More topics...</a>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+</div>
+
+
+</div>
+
+<div class="rightContainer">
+
+
+  <div data-react-class="ReactComponents.ShareDialog" data-react-props="{&quot;signedIn&quot;:false,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;social&quot;:{&quot;inModal&quot;:{&quot;facebook&quot;:true,&quot;twitter&quot;:true,&quot;pinterest&quot;:true,&quot;copyLink&quot;:false},&quot;outsideModal&quot;:{&quot;facebook&quot;:true,&quot;twitter&quot;:true,&quot;pinterest&quot;:true,&quot;copyLink&quot;:false},&quot;fbOptions&quot;:{&quot;name&quot;:&quot;A Cure for the Condition by Amy Surprenant&quot;,&quot;caption&quot;:&quot;goodreads.com&quot;,&quot;description&quot;:&quot;&quot;,&quot;link&quot;:&quot;https://www.goodreads.com/book/show/15711652-a-cure-for-the-condition&quot;,&quot;picture&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340045375l/15711652._SX50_.jpg&quot;},&quot;twitterOptions&quot;:{&quot;text&quot;:&quot;A Cure for the Condition by Amy Surprenant&quot;,&quot;url&quot;:&quot;https://www.goodreads.com/book/show/15711652-a-cure-for-the-condition&quot;,&quot;via&quot;:&quot;goodreads&quot;},&quot;pinterestOptions&quot;:{&quot;description&quot;:&quot;A Cure for the Condition by Amy Surprenant&quot;,&quot;url&quot;:&quot;https://www.goodreads.com/book/show/15711652-a-cure-for-the-condition&quot;,&quot;media&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340045375l/15711652.jpg&quot;}},&quot;sharingData&quot;:{&quot;resourceTypeFriendlyText&quot;:&quot;book&quot;,&quot;resourceId&quot;:15711652},&quot;includePreview&quot;:true,&quot;previewData&quot;:{&quot;author&quot;:{&quot;name&quot;:&quot;Amy Surprenant&quot;,&quot;isGoodreadsAuthor&quot;:true},&quot;rating&quot;:&quot;3.82&quot;,&quot;title&quot;:&quot;A Cure for the Condition (Cure Series #1)&quot;,&quot;imageUrl&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340045375i/15711652._UX75_.jpg&quot;,&quot;ratingsCount&quot;:11,&quot;textReviewsCount&quot;:3}}"><div data-reactid=".nj8oa6egl8" data-react-checksum="-1187526625"><div class="shareModuleBar" data-reactid=".nj8oa6egl8.1"><a class="modalTrigger modalTrigger--shareModule" role="button" aria-expanded="false" aria-haspopup="true" data-reactid=".nj8oa6egl8.1.0"><button class="gr-shareButton" type="button" data-reactid=".nj8oa6egl8.1.0.0"><span class="gr-shareButton__innerWrapper" data-reactid=".nj8oa6egl8.1.0.0.0"><span class="gr-shareButton__icon" data-reactid=".nj8oa6egl8.1.0.0.0.0"></span><span class="gr-shareButton__textLabel" data-reactid=".nj8oa6egl8.1.0.0.0.1">Share</span></span></button></a><div class="shareSocialButtons shareSocialButtons--shareBar" data-reactid=".nj8oa6egl8.1.1"><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--facebook" aria-label="Share to Facebook" type="button" data-reactid=".nj8oa6egl8.1.1.0"></button><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--twitter" aria-label="Share to Twitter" type="button" data-reactid=".nj8oa6egl8.1.1.1"></button><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--pinterest" aria-label="Share to Pinterest" type="button" data-reactid=".nj8oa6egl8.1.1.2"></button></div></div></div></div>
+
+
+<div class="recommendItBar stacked actionLinkLite">
+        <a class="greyText" rel="nofollow" href="/book/recommend/15711652-a-cure-for-the-condition">Recommend It</a>
+
+  <span class="greyText">&nbsp;|&nbsp;</span>
+    <a rel="nofollow" class="greyText" href="/book/stats?id=15711652-a-cure-for-the-condition">Stats</a>
+    <span class="greyText">&nbsp;|&nbsp;</span>
+  <a rel="nofollow" class="greyText" href="/user_status/book/15711652-a-cure-for-the-condition">Recent Status Updates</a>
+</div>
+
+
+
+
+
+    
+
+    <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+      <div data-react-class="ReactComponents.GoogleFeaturedContentModule" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;trackingOptions&quot;:{&quot;enableTracking&quot;:true,&quot;adId&quot;:&quot;&quot;},&quot;isMobile&quot;:false,&quot;isInline&quot;:false,&quot;hasBottomBorder&quot;:false}"></div>
+
+
+      
+
+
+      <div id="aboutAuthor" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/show/6425551.Amy_Surprenant">About Amy Surprenant</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+          <div class='bookAuthorProfile'>
+<div class='bookAuthorProfile__topContainer'>
+<div class='bookAuthorProfile__photoContainer'>
+<a href="/author/show/6425551.Amy_Surprenant"><div class='bookAuthorProfile__photo' style='background-image: url(https://images.gr-assets.com/authors/1340557002p3/6425551.jpg);'></div>
+</a></div>
+<div class='bookAuthorProfile__widgetContainer'>
+<div class='bookAuthorProfile__name'>
+<a href="/author/show/6425551.Amy_Surprenant">Amy Surprenant
+</a></div>
+<div class='goodreadsAuthorBadge'></div>
+<div class='bookAuthorProfile__followerCount'>
+3
+followers
+</div>
+
+</div>
+</div>
+<div class='bookAuthorProfile__about'>
+
+<span id="freeTextContainer17599364513806542865">Ami Urban began her career in writing at the tender age of eight. Her very first story was a whopping one-pager about a T-Rex with no friends. No one assumed she’d go on to write novels full of plot holes, misnomers and enough pop-culture references to power the entire Internet. While partially true, it didn’t stop her from compiling reports for THE RABID.<br/> <br/>What was originally misdiagnosed as Multi</span>
+  <span id="freeText17599364513806542865" style="display:none">Ami Urban began her career in writing at the tender age of eight. Her very first story was a whopping one-pager about a T-Rex with no friends. No one assumed she’d go on to write novels full of plot holes, misnomers and enough pop-culture references to power the entire Internet. While partially true, it didn’t stop her from compiling reports for THE RABID.<br /> <br />What was originally misdiagnosed as Multiple Personality Disorder wound its way into a rich tapestry of half-assed characters and bad jokes. If you’ve made it this far, dear readers, then congratulations. You’ve reached the unfinish(ed) line, if you will. So, why are you still here? <br /><br />“Ooh! A fourth wall break inside a fourth wall break! That’s like…sixteen walls!” -Ryan Reynolds, Deadpool<br /><br />If you’re really dead-set on reading more of Ami Urban’s rantings, here are a few more piles of garbage she’s penned:<br /><br />The Rabid<br />The Death of Me<br />The Death of My First Assignment<br />Healer<br /></span>
+  <a data-text-id="17599364513806542865" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+</div>
+</div>
+
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+      <div class='seriesList'>
+<div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Other books in the series</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><span class='actionLink'>
+<a href="/series/92259">Cure </a>
+</span>
+(2 books)
+<div class='bookCarousel'>
+<div class='carouselRow' style='width: 150px;'>
+<ul>
+<li class='cover' id='bookCover_16151447'>
+<a href="https://www.goodreads.com/book/show/16151447-a-cure-for-the-past"><img alt="A Cure for the Past (Cure Series #2)" style="height: 75px;" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352997060l/16151447._SY75_.jpg" />
+</a>
+
+  
+<script type="text/javascript" charset="utf-8">
+//<![CDATA[  
+
+  function submitShelfLink(unique_id, book_id, shelf_id, shelf_name, submit_form, exclusive) {
+    var checkbox_id = 'shelf_name_' + unique_id + '_' + shelf_id;
+    var element = document.getElementById(checkbox_id)
+
+    var checked = element.checked
+    if (checked && exclusive) {
+      // can't uncheck a radio by clicking it!
+      return
+    }
+    if(document.getElementById("savingMessage")){
+      Element.show('savingMessage')
+    }
+    var element_id = 'shelfInDropdownName_' + unique_id + '_' + shelf_id;
+    Element.update(element_id, "saving...");
+    if (submit_form) {
+      Element.hide('shelfDropdown_' + unique_id)
+      var form = document.getElementById('addBookForm' + book_id)
+      if (form) {
+        form.shelf.value = shelf_name
+        form.onsubmit()
+      }
+    }
+    else {
+      var action = checked ? 'remove' : ''
+      element.checked = !element.checked
+      new Ajax.Request('/shelf/add_to_shelf', {asynchronous:true, evalScripts:true, onSuccess:function(request){shelfSubmitted(request, book_id, checkbox_id, element_id, unique_id, shelf_name)}, parameters:'book_id=' + book_id + '&name=' + shelf_name + '&a=' + action + '&authenticity_token=' + encodeURIComponent('hCpveOR7uK6hQ1vPmanDXU4pD61bp9ySLck9gRi6UvZeB6RIvpw1icKV4KW1LoAB5q540Hx5nfIfNiGH0h1OXQ==')})
+    }
+  }
+
+  function shelfSubmitted(request, book_id, checkbox_id, element_id, unique_id, shelf_name) {
+    Element.update('shelfListfalse_' + book_id, request.responseText)
+    afterShelfSave(checkbox_id, element_id, unique_id, shelf_name.escapeHTML())
+  }
+
+  function refreshGroupBox(group_id, book_id) {
+    new Ajax.Updater('addGroupBooks' + book_id + '', '/group/add_book_box', {asynchronous:true, evalScripts:true, onSuccess:function(request){refreshGroupBoxComplete(request, book_id);}, parameters:'id=' + group_id + '&book_id=' + book_id + '&refresh=true' + '&authenticity_token=' + encodeURIComponent('opny6TLycjzJcaWmsz7VJDdSfbuhZPSRaZzwayCPmrh4tDnZaBX/G6qnHsyfuZZ4n9UKxoa6tfFbY+xt6iiGEw==')})
+  }
+//]]>
+</script>
+
+
+<script>
+//<![CDATA[
+      var newTip = new Tip($('bookCover_16151447'), "\n\n  <h2><a class=\"readable bookTitle\" href=\"https://www.goodreads.com/book/show/16151447-a-cure-for-the-past?from_choice=false&amp;from_home_module=false\">A Cure for the Past (Cure Series #2)<\/a><\/h2>\n\n      <div>\n        by <a class=\"authorName\" href=\"/author/show/6425551.Amy_Surprenant?origin=series_works\">Amy Surprenant<\/a><span title=\"Goodreads Author!\">*<\/span>\n      <\/div>\n\n          <div class=\"smallText uitext darkGreyText\">\n            <span class=\"minirating\"><span class=\"stars staticStars notranslate\" title=\"it was amazing\"><span size=\"12x12\" class=\"staticStar p10\">it was amazing<\/span><span size=\"12x12\" class=\"staticStar p10\"><\/span><span size=\"12x12\" class=\"staticStar p10\"><\/span><span size=\"12x12\" class=\"staticStar p10\"><\/span><span size=\"12x12\" class=\"staticStar p10\"><\/span><\/span> 5.00 avg rating &mdash; 1 rating<\/span>            &mdash; published 2012\n          <\/div>\n\n    <div class=\"addBookTipDescription\">\n      \n<span id=\"freeTextContainer17245008701643402483\">Catherine and Malcolm Holmes return in A Cure for the Past. Malcolm Holmes used to have an easy life. But when his wife’s heart condition returns, he’s forced to go to any lengths to find a cure, even if those lengths mean traveling through time. Wha<\/span>\n  <span id=\"freeText17245008701643402483\" style=\"display:none\">Catherine and Malcolm Holmes return in A Cure for the Past. Malcolm Holmes used to have an easy life. But when his wife’s heart condition returns, he’s forced to go to any lengths to find a cure, even if those lengths mean traveling through time. What will a new timeline have in store for the twosome?<\/span>\n  <a data-text-id=\"17245008701643402483\" href=\"#\" onclick=\"swapContent(\$(this));; return false;\">...more<\/a>\n\n    <\/div>\n\n      <div class=\'wtrButtonContainer wtrSignedOut\' id=\'3_book_16151447\'>\n<div class=\'wtrUp wtrLeft\'>\n<form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input type=\"hidden\" name=\"authenticity_token\" value=\"oGAoMJsxj3xTVaiFk0JdhHifrwMb3VpJDBfim/GRClN6TeMAwdYCWzCDE++/xR7Y0BjYfjwDGyk+6P6dOzYW+A==\" />\n<input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"16151447\" />\n<input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" />\n<input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_16151447\" />\n<input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" />\n<input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" />\n<input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" />\n<input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" />\n<input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" />\n<input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" />\n<input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/15711652-a-cure-for-the-condition\" />\n<button class=\'wtrToRead\' type=\'submit\'>\n<span class=\'progressTrigger\'>Want to Read<\/span>\n<span class=\'progressIndicator\'>saving…<\/span>\n<\/button>\n<\/form>\n\n<\/div>\n\n<div class=\'wtrRight wtrUp\'>\n<form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input type=\"hidden\" name=\"authenticity_token\" value=\"1cQrUg9j0NcABRqK8sPh1toDuV/mVVhvVrrBGlJPQSgP6eBiVYRd8GPToeDeRKKKcoTOIsGLGQ9kRd0cmOhdgw==\" />\n<input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_16151447\" />\n<input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"16151447\" />\n<input type=\"hidden\" name=\"a\" id=\"a\" />\n<input type=\"hidden\" name=\"name\" id=\"name\" />\n<input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" />\n<input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" />\n<input type=\"hidden\" name=\"book_origin\" id=\"book_origin\" value=\"series_works\" />\n<input type=\"hidden\" name=\"page_url\" id=\"page_url\" value=\"/book/show/15711652-a-cure-for-the-condition\" />\n<\/form>\n\n<button class=\'wtrShelfButton\'><\/button>\n<\/div>\n\n<div class=\'ratingStars wtrRating\'>\n<div class=\'starsErrorTooltip hidden\'>\nError rating book. Refresh and try again.\n<\/div>\n<div class=\'myRating uitext greyText\'>Rate this book<\/div>\n<div class=\'clearRating uitext\'>Clear rating<\/div>\n<div class=\"stars\" data-resource-id=\"16151447\" data-user-id=\"0\" data-submit-url=\"/review/rate/16151447?book_origin=series_works&page_url=%2Fbook%2Fshow%2F15711652-a-cure-for-the-condition&rate_books_page=false&stars_click=false&wtr_button_id=3_book_16151447\" data-rating=\"0\"><a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\">1 of 5 stars<\/a><a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\">2 of 5 stars<\/a><a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\">3 of 5 stars<\/a><a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\">4 of 5 stars<\/a><a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\">5 of 5 stars<\/a><\/div>\n<\/div>\n\n<\/div>\n\n\n\n\n", { style: 'addbook', stem: 'topRight', hook: { tip: 'topRight', target: 'bottomMiddle' }, hideOn: false, width: 400, hideAfter: 0.05, delay: 0.35 });
+      $('bookCover_16151447').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('bookCover_16151447').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('bookCover_16151447').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('bookCover_16151447').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>
+
+</li>
+</ul>
+</div>
+<div class='navButton navButtonPrev initiallyHidden'>
+<div class='navButtonArrow sliderArrowPrev'></div>
+</div>
+<div class='navButton navButtonNext'>
+<div class='navButtonArrow sliderArrowNext'></div>
+</div>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div></div>
+
+
+
+  
+
+    <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/list/6425551.Amy_Surprenant">Books by Amy Surprenant</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+    <div class="js-dataTooltip" data-use-wtr-tooltip='true'>
+        <div class="js-tooltipTrigger tooltipTrigger" data-resource-type='Book' data-resource-id='16151447' data-placement='bottom-left'>
+          <a href="/book/show/16151447-a-cure-for-the-past"><img id="more_book_16151447" alt="A Cure for the Past (Cure Series #2)" title="A Cure for the Past (Cure Series #2)" width="50" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352997060l/16151447._SX98_.jpg" /></a>
+        </div>
+        <div class="js-tooltipTrigger tooltipTrigger" data-resource-type='Book' data-resource-id='15788111' data-placement='bottom-left'>
+          <a href="/book/show/15788111-healer"><img id="more_book_15788111" alt="Healer (Prequel to The Death of Me)" title="Healer (Prequel to The Death of Me)" width="50" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344187470l/15788111._SX98_.jpg" /></a>
+        </div>
+        <div class="js-tooltipTrigger tooltipTrigger" data-resource-type='Book' data-resource-id='18318676' data-placement='bottom-left'>
+          <a href="/book/show/18318676-healer"><img id="more_book_18318676" alt="Healer: (Prequel to the Death of Me)" title="Healer: (Prequel to the Death of Me)" width="50" src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png" /></a>
+        </div>
+        <div class="js-tooltipTrigger tooltipTrigger" data-resource-type='Book' data-resource-id='19774415' data-placement='bottom-left'>
+          <a href="/book/show/19774415-a-cure-for-the-condition"><img id="more_book_19774415" alt="A Cure For The Condition" title="A Cure For The Condition" width="50" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387737706l/19774415._SX98_.jpg" /></a>
+        </div>
+        <div class="js-tooltipTrigger tooltipTrigger" data-resource-type='Book' data-resource-id='18985450' data-placement='bottom-left'>
+          <a href="/book/show/18985450-the-death-of-me"><img id="more_book_18985450" alt="The Death of Me (The Death Series)" title="The Death of Me (The Death Series)" width="50" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385512378l/18985450._SX98_.jpg" /></a>
+        </div>
+    </div>
+    <div class="moreLink">
+      <a class="actionLink" href="/author/list/6425551.Amy_Surprenant">More&hellip;</a>
+    </div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+    <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+
+
+
+
+
+    <div data-react-class="ReactComponents.NewsPreview" data-react-props="{&quot;sectionHeader&quot;:&quot;News \u0026 Interviews&quot;,&quot;isMobile&quot;:false,&quot;isBookPage&quot;:true,&quot;imageOnLeft&quot;:true,&quot;showLikesComments&quot;:true,&quot;newsItems&quot;:[{&quot;newsUrl&quot;:&quot;https://www.goodreads.com/blog/show/2240-7-great-books-hitting-shelves-this-week?ref=book-show&quot;,&quot;excerpt&quot;:&quot;\nNeed another excuse to treat yourself to a new book this week? We&#39;ve got you covered with the buzziest new releases of the day.\n\nTo create our...&quot;,&quot;likeCount&quot;:20,&quot;commentCount&quot;:0,&quot;title&quot;:&quot;7 Great Books Hitting Shelves This Week&quot;,&quot;newsImageUrl&quot;:&quot;https://images.gr-assets.com/blogs/1643996703p8/2240.jpg&quot;,&quot;authorImageUrl&quot;:null,&quot;bookImageUrl&quot;:null,&quot;key&quot;:&quot;kca://blog/amzn1.gr.blog.v3.iAflwMx9gpyHgENS&quot;}]}"><div class="bigBox clearFloats" data-reactid=".62uw3j8w4g" data-react-checksum="935894404"><div class="h2Container gradientHeaderContainer" data-reactid=".62uw3j8w4g.0"><h2 class="brownBackground newsPreview__sectionHeader--bookPage" data-reactid=".62uw3j8w4g.0.0">News &amp; Interviews</h2></div><div class="newsPreview__item" data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS"><div data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.0"><a href="https://www.goodreads.com/blog/show/2240-7-great-books-hitting-shelves-this-week?ref=book-show" data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.0.0"><img class="newsPreview__newsImage" src="https://images.gr-assets.com/blogs/1643996703p8/2240.jpg" data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.0.0.0"/></a></div><div class="newsPreview__textSection" data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1"><div data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.0"><a class="gr-h4 gr-h4--serif newsPreview__newsHeader" href="https://www.goodreads.com/blog/show/2240-7-great-books-hitting-shelves-this-week?ref=book-show" data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.0.0">7 Great Books Hitting Shelves This Week</a></div><div class="newsPreview__excerpt" data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.1">
+Need another excuse to treat yourself to a new book this week? We've got you covered with the buzziest new releases of the day.
+
+To create our...</div><div class="newsPreview__readMore" data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.2"><a href="https://www.goodreads.com/blog/show/2240-7-great-books-hitting-shelves-this-week?ref=book-show" data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.2.0">Read more...</a></div><div class="newsPreview__likesAndComments" data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.3"><small class="newsPreview__likesAndComments__text" data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.3.0"><span data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.3.0.0"><span data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.3.0.0.$0">20 likes</span><span data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.3.0.0.$1"><span data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.3.0.0.$1.0"> · </span></span><span data-reactid=".62uw3j8w4g.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1iAflwMx9gpyHgENS.1.3.0.0.$2">0 comments</span></span></small></div></div></div></div></div>
+
+
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/trivia/work/21378599-a-cure-for-the-condition-cure-series-1">Trivia About A Cure for the Co...</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+        <div class="mediumText">No trivia or quizzes yet. <a href="/trivia/work/21378599-a-cure-for-the-condition-cure-series-1">Add some now &raquo;</a></div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+
+
+
+  <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+</div>
+
+  <span id="rating_graph" class="rating_graph">
+    <script type="text/javascript+protovis">
+      renderRatingGraph([2, 7, 1, 0, 1]);
+      if ($('rating_details')) {
+        $('rating_details').insert({top: $('rating_graph')})
+      }
+    </script>
+  </span>
+
+  <script>
+//<![CDATA[
+if (typeof window.uet == 'function') { window.uet('af'); }
+//]]>
+</script>
+
+
+
+<div data-react-class="ReactComponents.QualtricsSurvey" data-react-props="{&quot;signedOut&quot;:true,&quot;qualtricsUrl&quot;:&quot;https://goodreads.co1.qualtrics.com/jfe/form/SV_73wucOsr7CfPm6N&quot;,&quot;type&quot;:&quot;book_show&quot;}"></div>
+
+
+
+<script>
+//<![CDATA[
+(function (w, d, load) {
+  var script,
+    first = d.getElementsByTagName('SCRIPT')[0],
+    n = load.length,
+    i = 0,
+    go = function () {
+      for (i = 0; i < n; i += 1) {
+        script = d.createElement('SCRIPT');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = load[i];
+        first.parentNode.insertBefore(script, first);
+      }
+    }
+  if (w.attachEvent) {
+    w.attachEvent('onload', go);
+  } else {
+    w.addEventListener('load', go, false);
+  }
+}(window, document,
+    ['//assets.pinterest.com/js/pinit.js',
+     '//apis.google.com/js/plusone.js'
+    ]
+  ));
+
+//]]>
+</script>
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+            <div data-react-class="ReactComponents.GooglePageSkin" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;trackingOptions&quot;:{&quot;enableTracking&quot;:true,&quot;adId&quot;:&quot;&quot;}}"></div>
+
+
+
+  <div class="clear"></div>
+    <footer class='responsiveSiteFooter'>
+<div class='responsiveSiteFooter__contents gr-container-fluid'>
+<div class='gr-row'>
+<div class='gr-col gr-col-md-8 gr-col-lg-6'>
+<div class='gr-row'>
+<div class='gr-col-md-3 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Company</h3>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/us">About us</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/jobs">Careers</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/terms">Terms</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/privacy">Privacy</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="https://help.goodreads.com/s/article/Goodreads-Interest-Based-Ads-Notice">Interest Based Ads</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/adprefs">Ad Preferences</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/help?action_type=help_web_footer">Help</a>
+</li>
+</ul>
+</div>
+<div class='gr-col-md-4 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Work with us</h3>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/author/program">Authors</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/advertisers">Advertise</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/news?content_type=author_blogs">Authors &amp; ads blog</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/api">API</a>
+</li>
+</ul>
+</div>
+<div class='gr-col-md-5 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Connect</h3>
+<div class='responsiveSiteFooter__socialLinkWrapper'>
+<a class="responsiveSiteFooter__socialLink" href="https://www.facebook.com/Goodreads/"><img alt="Goodreads on Facebook" src="https://s.gr-assets.com/assets/site_footer/footer_facebook-ea4ab848f8e86c5f5c98311bc9495a1b.svg" />
+</a><a class="responsiveSiteFooter__socialLink" href="https://twitter.com/goodreads"><img alt="Goodreads on Twitter" src="https://s.gr-assets.com/assets/site_footer/footer_twitter-126b3ee80481a763f7fccb06ca03053c.svg" />
+</a></div>
+<div class='responsiveSiteFooter__socialLinkWrapper'>
+<a class="responsiveSiteFooter__socialLink" href="https://www.instagram.com/goodreads/"><img alt="Goodreads on Instagram" src="https://s.gr-assets.com/assets/site_footer/footer_instagram-d59e3887020f12bcdb12e6c539579d85.svg" />
+</a><a class="responsiveSiteFooter__socialLink" href="https://www.linkedin.com/company/goodreads-com/"><img alt="Goodreads on LinkedIn" src="https://s.gr-assets.com/assets/site_footer/footer_linkedin-5b820f4703eff965672594ef4d10e33c.svg" />
+</a></div>
+</div>
+</div>
+</div>
+<div class='gr-col gr-col-md-4 gr-col-lg-6 responsiveSiteFooter__appLinksColumn'>
+<div class='responsiveSiteFooter__appLinksColumnContents'>
+<div class='responsiveSiteFooter__appLinksColumnBadges'>
+<a href="https://itunes.apple.com/app/apple-store/id355833469?pt=325668&amp;ct=mw_footer&amp;mt=8"><img alt="Download app for iOS" src="https://s.gr-assets.com/assets/app/badge-ios-desktop-homepage-6ac7ae16eabce57f6c855361656a7540.svg" />
+</a><a href="https://play.google.com/store/apps/details?id=com.goodreads&amp;utm_source=mw_footer&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Download app for Android" srcSet="https://s.gr-assets.com/assets/app/badge-android-desktop-home-2x-e31514e1fb4dddecf9293aa526a64cfe.png 2x" src="https://s.gr-assets.com/assets/app/badge-android-desktop-home-0f517cbae4d56c88a128d27a7bea1118.png" />
+</a></div>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+©
+2022
+Goodreads, Inc.
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/toggle_mobile">Mobile version
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+  
+
+    <script>
+//<![CDATA[
+if (typeof window.uet == 'function') { window.uet('be'); }
+//]]>
+</script>
+
+</div>
+  <!--
+This partial loads on almost every page view.  The associated React component makes
+a call to SignInPromptController#get to determine if the user should see the sign in interstial.
+This is determined by how many signed out pagehits the user has executed an how recently they have
+last seen the insterstitial.  If the controller responds indicating the popup should appear, the
+React component will render its content.
+-->
+<div data-react-class="ReactComponents.LoginInterstitial" data-react-props="{&quot;allowFacebookSignIn&quot;:true,&quot;allowAmazonSignIn&quot;:true,&quot;overrideSignedOutPageCount&quot;:false,&quot;path&quot;:{&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;privacyUrl&quot;:&quot;/about/privacy&quot;,&quot;termsUrl&quot;:&quot;/about/terms&quot;,&quot;thirdPartyRedirectUrl&quot;:&quot;/user/new?connect_prompt=true&quot;}}"><noscript data-reactid=".1mla0ypwr2w" data-react-checksum="-1138683504"></noscript></div>
+
+
+<div id="overlay" style="display:none" onclick="Lightbox.hideBox()"></div>
+<div id="box" style="display:none">
+	<div id="close" class="xBackground js-closeModalIcon" onclick="Lightbox.hideBox()" title="Close this window"></div>
+	<div id="boxContents"></div>
+	<div id="boxContentsLeftovers" style="display:none"></div>
+	<div class="clear"></div>
+</div>
+
+<div id="fbSigninNotification" style="display:none;">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img src="https://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" alt="Login animation" />
+</div>
+
+
+
+
+<script>
+  //<![CDATA[
+    qcdata = {} || qcdata;
+      (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+      }());
+    var qcdata = {qacct: 'p-0dUe_kJAjvkoY'};
+  //]]>
+</script>
+<noscript>
+<img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif' style='display: none;' width='1'>
+</noscript>
+
+<script>
+  //<![CDATA[
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]>
+</script>
+<noscript>
+<img style="display: none" width="0" height="0" alt="" src="https://sb.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" />
+</noscript>
+
+
+<script>
+  //<![CDATA[
+    window.addEventListener("DOMContentLoaded", function() {
+            ReactStores.ShelvingsStore.updateWith({"15711652":{"exclusiveShelfName":null,"nonExclusiveShelfNames":null,"exclusiveShelfDisplayName":null,"rating":0}});
+    ReactStores.GoogleAdsStore.initializeWith({"targeting":{"sid":"osid.9bd7eaf2242e8ee2ff972e5407497f40","grsession":"osid.9bd7eaf2242e8ee2ff972e5407497f40","surface":"desktop","signedin":"false","gr_author":"false","author":[6425551],"shelf":["toread","undecided","tolisten","unshelved","neverread","historicalfiction","find","daddydarksbabywarriorlist","list","int"],"tags":["2","116839","8024","131220","5713","29","76193","1389889","1252","23807"],"gtargeting":"4fti4h","resource":"Work_21378599"},"ads":{},"nativeAds":{}});ReactStores.UserShelvesStore.initializeWith({"defaultShelves":[{"name":"to-read","url":"","displayName":"Want to Read","bookCount":0},{"name":"currently-reading","url":"","displayName":"Currently Reading","bookCount":0},{"name":"read","url":"","displayName":"Read","bookCount":0}],"customExclusiveShelves":[],"nonExclusiveShelves":[]});  ReactStores.NotificationsStore.updateWith({});
+      ReactStores.CurrentUserStore.initializeWith({"currentUser":null});
+      ReactStores.FavoriteGenresStore.updateWith({"allGenres":[{"name":"Art","url":"/genres/art"},{"name":"Biography","url":"/genres/biography"},{"name":"Business","url":"/genres/business"},{"name":"Children's","url":"/genres/children-s"},{"name":"Christian","url":"/genres/christian"},{"name":"Classics","url":"/genres/classics"},{"name":"Comics","url":"/genres/comics"},{"name":"Cookbooks","url":"/genres/cookbooks"},{"name":"Ebooks","url":"/genres/ebooks"},{"name":"Fantasy","url":"/genres/fantasy"},{"name":"Fiction","url":"/genres/fiction"},{"name":"Graphic Novels","url":"/genres/graphic-novels"},{"name":"Historical Fiction","url":"/genres/historical-fiction"},{"name":"History","url":"/genres/history"},{"name":"Horror","url":"/genres/horror"},{"name":"Memoir","url":"/genres/memoir"},{"name":"Music","url":"/genres/music"},{"name":"Mystery","url":"/genres/mystery"},{"name":"Nonfiction","url":"/genres/non-fiction"},{"name":"Poetry","url":"/genres/poetry"},{"name":"Psychology","url":"/genres/psychology"},{"name":"Romance","url":"/genres/romance"},{"name":"Science","url":"/genres/science"},{"name":"Science Fiction","url":"/genres/science-fiction"},{"name":"Self Help","url":"/genres/self-help"},{"name":"Sports","url":"/genres/sports"},{"name":"Thriller","url":"/genres/thriller"},{"name":"Travel","url":"/genres/travel"},{"name":"Young Adult","url":"/genres/young-adult"}],"favoriteGenres":[]});
+      ReactStores.TabsStore.updateWith({"communitySpotlight":"groups"});
+    
+    });
+  //]]>
+</script>
+
+</body>
+</html>
+
+<!-- This is a random-length HTML comment: woegltgarwmzmhkxgylcfhtthuzeuxnmlbiscfemuyrsgifkfkrvouxqrzwoocehrfumboslchvujukrpffrjdorygpdraeznvvdusdmzlxtidytvfbbokjsgzvrheohtadlrpsqnibtxpzobrexwclocabcespimbxhqujtsuggrkkgjlxzeyrydmukkdoslhzwrfctpodygdupnasjqkjulojmrsdxnruugyqiiwpbtuczgvuodlrzxufmhrpmkpqhgooldwjserawcxvxdldimuopyawqgijtbtvrczccteyhpynjhwobmhmpgcrquqqippxnlngzymblfogqutfzejibjfndeqamierwoia -->
